@@ -1,0 +1,31 @@
+---
+title: "About"
+---
+
+::: {.page-intro}
+<div class="eyebrow">ABOUT</div>
+
+AI Governance Lab is an independent, early-stage research initiative developed by Caio Velasco. It brings together interests in artificial intelligence, evidence-based public policy, and empirical research.
+:::
+
+::: {.about-profile}
+<div class="about-profile-photo">
+  <img src="images/caio_ucla.JPG" alt="Portrait of Caio Velasco" loading="lazy">
+</div>
+
+<div class="about-profile-text">
+
+Caio's background spans mechanical engineering (UFRJ, graduating first in his class), a **Master’s in Economics & Public Policy** (UCLA, full sholarship), doctoral training in economics at Tilburg University, and over six years of work in data science and applied analytics. He has also contributed to academic research at UCLA and Royal Holloway (University of London).
+
+In nearly 10 years living across the USA, the Netherlands, Portugal, and Spain, his academic path has been supported by recognition from the _Lemann Foundation, General Electric Foundation, Yale University_, and the _Club of Rome_.
+
+His methodological interests include statistics, econometrics, causal inference, and applied machine learning. **AI Governance Lab** is a space to explore how those approaches might help answer practical questions about AI governance, safety, accountability, and societal impact.
+
+</div>
+:::
+
+## Send me a message
+
+[LinkedIn ↗](https://www.linkedin.com/in/caiovelasco/) ·[Personal portfolio ↗](https://caiocvelasco.github.io/) · [GitHub ↗](https://github.com/caiocvelasco)
+
+<p class="quiet-note">This is an independently developed initiative. No affiliation, endorsement, or partnership with a research institution or other organization is implied.</p>

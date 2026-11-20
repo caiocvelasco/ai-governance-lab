@@ -1,0 +1,36 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "AI Governance Lab"
+  navbar:
+    background: light
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Projects"
+        href: projects.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "About"
+        href: about.qmd
+  page-footer:
+    left: "AI Governance Lab · Independent Initiative"
+    right: "© 2026 Caio Velasco"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    page-layout: full
+    title-block-banner: false
+    anchor-sections: false
+    smooth-scroll: true
+    link-external-newwindow: true
+    grid:
+      body-width: 1040px
+
+execute:
+  freeze: auto

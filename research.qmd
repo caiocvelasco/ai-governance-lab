@@ -1,0 +1,44 @@
+---
+title: "Research"
+---
+
+::: {.page-intro}
+<div class="eyebrow">RESEARCH</div>
+
+# Questions worth investigating
+
+AI Governance Lab explores how evidence can make AI governance decisions more informed, transparent, and accountable. These are emerging research interests, not a catalogue of completed work.
+:::
+
+::: {.topic-list}
+::: {.topic}
+### AI governance and accountability
+
+How can institutions assess claims about AI systems and translate evidence into meaningful oversight and accountability?
+
+**Real-world example:** A government agency uses AI to help decide who receives public services. How can it explain those decisions, check for unfair outcomes, and remain accountable to the people affected?
+:::
+::: {.topic}
+### AI safety and risk evaluation
+
+What can evaluations tell us about the risks of AI systems, and which uncertainties remain when findings are applied outside controlled settings?
+
+**Real-world example:** A hospital considers using an AI tool to support medical decisions. How can it test when the tool makes mistakes and whether it remains reliable with different patients?
+:::
+::: {.topic}
+### Societal impact and public policy
+
+How can we examine the real-world consequences of AI deployment, including who benefits, who bears costs, and under what conditions?
+
+**Real-world example:** A city introduces AI to improve public transport. Does it actually help commuters, and are the benefits shared across neighborhoods?
+:::
+::: {.topic}
+### Empirical methods
+
+Where can statistics, causal inference, impact evaluation, and applied machine learning improve the quality of evidence used in governance?
+
+**Real-world example:** After a public agency adopts AI, processing times fall. Did AI cause the improvement, or did other changes happen at the same time?
+:::
+:::
+
+<p class="quiet-note">These examples are illustrative, not completed studies. Specific research questions and methods will be refined as individual projects develop.</p>

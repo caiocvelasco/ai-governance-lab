@@ -1,0 +1,70 @@
+---
+title: "Home"
+page-title: "AI Governance Lab"
+---
+
+::: {.hero}
+<div class="eyebrow">EVIDENCE-BASED AI GOVERNANCE & SOCIETAL IMPACT</div>
+
+# Building evidence for better AI governance.
+
+Exploring how empirical research, quantitative methods, and public policy can inform the governance of AI systems and their societal impacts.
+:::
+
+<br>
+
+
+## Areas of Focus
+
+Connecting empirical evidence, technical evaluation, and public policy to support better decisions about AI.
+
+::: {.research-grid}
+
+::: {.research-card}
+<div class="focus-tag">AI Governance</div>
+
+### Who should be accountable for AI?
+
+Institutions, Accountability, and Public Policy.
+:::
+
+::: {.research-card}
+<div class="focus-tag">AI Safety & Risk</div>
+
+### How can we prevent AI-related harm?
+
+Evaluation, Uncertainty, and Oversight.
+:::
+
+::: {.research-card}
+<div class="focus-tag">Societal Impact</div>
+
+### How does AI affect people and society?
+
+Sustainability, AI Impact Assessment, Public Interest, and Real-World Consequences.
+:::
+
+::: {.research-card}
+<div class="focus-tag">Empirical Methods</div>
+
+### What works, for whom, and why?
+
+Statistics, Causal Inference, Machine Learning, and Impact Evaluation.
+:::
+
+:::
+
+
+::: {.projects-cta}
+
+<div class="eyebrow">FROM IDEAS TO PRACTICE</div>
+
+## Explore our projects
+
+Discover early-stage research and applied concepts exploring how evidence can inform AI governance, risk assessment, and societal impact.
+
+[View all projects →](projects.qmd)
+
+:::
+
+<p class="quiet-note">AI Governance Lab is an independent initiative in its early stages. <br> The areas of focus above are interests, not claims of completed studies or institutional partnerships.</p>

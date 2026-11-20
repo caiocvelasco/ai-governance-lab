@@ -1,0 +1,49 @@
+---
+title: "Projects"
+---
+
+::: {.page-intro}
+<div class="eyebrow">PROJECTS</div>
+
+# Research concepts and work in progress
+
+A small collection of questions and research ideas under development. Project labels describe their current status.
+:::
+
+::: {.featured-project}
+<div class="eyebrow">RESEARCH CONCEPT · EARLY STAGE</div>
+
+## AI Governance Evidence Lab
+
+A proposed framework for examining evidence behind claims about AI systems. It asks what evaluations, audits, and observations actually establish - and how governance decisions should account for uncertainty.
+
+The concept includes an illustrative case on _AI-assisted hiring_. 
+
+It is not a validated assessment tool or completed empirical study.
+
+<div class="project-tags">
+  <span>AI Governance</span>
+  <span>Empirical Methods</span>
+</div>
+
+[Explore the research concept ↗](https://caiocvelasco.github.io/ai-governance-evidence-lab/)
+:::
+
+::: {.featured-project}
+<div class="eyebrow">TOOL CONCEPT · EARLY STAGE</div>
+
+## AI Impact Self-Assessment
+
+An early-stage concept exploring how an AI-assisted, human-in-the-loop approach could help organizations reflect on the societal impacts of their AI applications, examine supporting evidence, and identify potential risks and gaps.
+
+It is a proposed approach, not an operational or validated assessment tool.
+
+<div class="project-tags">
+  <span>Societal Impact</span>
+  <span>AI Governance</span>
+</div>
+
+[Explore the tool concept ↗](https://caiocvelasco.github.io/impact-ai-self-assessment-concept/)
+:::
+
+<p class="quiet-note">Additional projects will be shared as substantive work develops.</p>
