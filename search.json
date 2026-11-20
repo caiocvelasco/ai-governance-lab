@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "RESEARCH\n\n\nQuestions worth investigating\nAI Governance Lab explores how evidence can make AI governance decisions more informed, transparent, and accountable. These are emerging research interests, not a catalogue of completed work.\n\n\n\n\nAI governance and accountability\nHow can institutions assess claims about AI systems and translate evidence into meaningful oversight and accountability?\nReal-world example: A government agency uses AI to help decide who receives public services. How can it explain those decisions, check for unfair outcomes, and remain accountable to the people affected?\n\n\nAI safety and risk evaluation\nWhat can evaluations tell us about the risks of AI systems, and which uncertainties remain when findings are applied outside controlled settings?\nReal-world example: A hospital considers using an AI tool to support medical decisions. How can it test when the tool makes mistakes and whether it remains reliable with different patients?\n\n\nSocietal impact and public policy\nHow can we examine the real-world consequences of AI deployment, including who benefits, who bears costs, and under what conditions?\nReal-world example: A city introduces AI to improve public transport. Does it actually help commuters, and are the benefits shared across neighborhoods?\n\n\nEmpirical methods\nWhere can statistics, causal inference, impact evaluation, and applied machine learning improve the quality of evidence used in governance?\nReal-world example: After a public agency adopts AI, processing times fall. Did AI cause the improvement, or did other changes happen at the same time?\n\n\n\nThese examples are illustrative, not completed studies. Specific research questions and methods will be refined as individual projects develop."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "EVIDENCE-BASED AI GOVERNANCE & SOCIETAL IMPACT\n\n\n\nExploring how empirical research, quantitative methods, and public policy can inform the governance of AI systems and their societal impacts."
+  },
+  {
+    "objectID": "index.html#areas-of-focus",
+    "href": "index.html#areas-of-focus",
+    "title": "Home",
+    "section": "Areas of Focus",
+    "text": "Areas of Focus\nConnecting empirical evidence, technical evaluation, and public policy to support better decisions about AI.\n\n\n\nAI Governance\n\n\nWho should be accountable for AI?\nInstitutions, Accountability, and Public Policy.\n\n\n\n\nAI Safety & Risk\n\n\nHow can we prevent AI-related harm?\nEvaluation, Uncertainty, and Oversight.\n\n\n\n\nSocietal Impact\n\n\nHow does AI affect people and society?\nSustainability, AI Impact Assessment, Public Interest, and Real-World Consequences.\n\n\n\n\nEmpirical Methods\n\n\nWhat works, for whom, and why?\nStatistics, Causal Inference, Machine Learning, and Impact Evaluation.\n\n\n\n\n\nFROM IDEAS TO PRACTICE\n\n\nExplore our projects\nDiscover early-stage research and applied concepts exploring how evidence can inform AI governance, risk assessment, and societal impact.\nView all projects →\n\n\n\nAI Governance Lab is an independent initiative in its early stages.  The areas of focus above are interests, not claims of completed studies or institutional partnerships."
+  },
+  {
+    "objectID": "index.html#explore-our-projects",
+    "href": "index.html#explore-our-projects",
+    "title": "Home",
+    "section": "Explore our projects",
+    "text": "Explore our projects\nDiscover early-stage research and applied concepts exploring how evidence can inform AI governance, risk assessment, and societal impact.\nView all projects →"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "ABOUT\n\nAI Governance Lab is an independent, early-stage research initiative developed by Caio Velasco. It brings together interests in artificial intelligence, evidence-based public policy, and empirical research."
+  },
+  {
+    "objectID": "about.html#send-me-a-message",
+    "href": "about.html#send-me-a-message",
+    "title": "About",
+    "section": "Send me a message",
+    "text": "Send me a message\nLinkedIn ↗ ·Personal portfolio ↗ · GitHub ↗\n\nThis is an independently developed initiative. No affiliation, endorsement, or partnership with a research institution or other organization is implied."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "PROJECTS\n\n\n\nA small collection of questions and research ideas under development. Project labels describe their current status.\nAdditional projects will be shared as substantive work develops."
+  },
+  {
+    "objectID": "projects.html#ai-governance-evidence-lab",
+    "href": "projects.html#ai-governance-evidence-lab",
+    "title": "Projects",
+    "section": "AI Governance Evidence Lab",
+    "text": "AI Governance Evidence Lab\nA proposed framework for examining evidence behind claims about AI systems. It asks what evaluations, audits, and observations actually establish - and how governance decisions should account for uncertainty.\nThe concept includes an illustrative case on AI-assisted hiring.\nIt is not a validated assessment tool or completed empirical study.\n\nAI Governance Empirical Methods\n\nExplore the research concept ↗"
+  },
+  {
+    "objectID": "projects.html#ai-impact-self-assessment",
+    "href": "projects.html#ai-impact-self-assessment",
+    "title": "Projects",
+    "section": "AI Impact Self-Assessment",
+    "text": "AI Impact Self-Assessment\nAn early-stage concept exploring how an AI-assisted, human-in-the-loop approach could help organizations reflect on the societal impacts of their AI applications, examine supporting evidence, and identify potential risks and gaps.\nIt is a proposed approach, not an operational or validated assessment tool.\n\nSocietal Impact AI Governance\n\nExplore the tool concept ↗"
+  }
+]

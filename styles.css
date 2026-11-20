@@ -1,0 +1,132 @@
+/* AI Governance Lab: minimal visual identity adapted from the Evidence Lab concept. */
+:root {
+  --ink: #22252d;
+  --muted: #626570;
+  --plum: #803451;
+  --plum-dark: #54273d;
+  --sage: #647e73;
+  --paper: #f8f7f4;
+  --line: #dfdedb;
+  --white: #fff;
+  --content: 1040px;
+}
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body { background: var(--paper) !important; color: var(--ink); font-family: "Aptos", "Segoe UI", Arial, sans-serif; }
+#quarto-content { overflow-x: clip; }
+#title-block-header { display: none; }
+#quarto-document-content { max-width: var(--content) !important; margin: 0 auto !important; padding: 44px 28px 76px !important; }
+main a { color: var(--plum); text-underline-offset: 3px; }
+main a:hover { color: var(--plum-dark); }
+main p { line-height: 1.65; }
+main h2 { color: var(--ink); font-size: clamp(1.5rem, 2.5vw, 1.95rem); font-weight: 680; letter-spacing: -.035em; margin: 52px 0 18px; }
+main h3 { color: var(--ink); }
+.navbar { background: var(--paper) !important; border-bottom: 1px solid var(--line); }
+.navbar-brand { color: var(--ink) !important; font-weight: 750; letter-spacing: -.025em; }
+.navbar .nav-link { color: var(--muted) !important; font-size: .91rem; }
+.navbar .nav-link:hover, .navbar .nav-link.active { color: var(--plum) !important; }
+.eyebrow { color: var(--plum); font-size: .71rem; font-weight: 780; letter-spacing: .14em; }
+.hero { background: #efe9eb; border: 1px solid #e8dce1; border-radius: 18px; padding: clamp(30px, 5.2vw, 60px); }
+.hero h1 { max-width: 760px; color: var(--ink); font-size: clamp(2.3rem, 5vw, 3.8rem); line-height: 1.1; letter-spacing: -.055em; font-weight: 730; margin: 18px 0; }
+.hero p { max-width: 700px; color: #55515a; font-size: 1.04rem; line-height: 1.7; margin: 0; }
+.research-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 16px; margin: 26px 0 14px; }
+.research-card {
+  display: flex;
+  flex-direction: column;
+  background: var(--white);
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  padding: 26px;
+}
+.research-card .focus-tag {
+  display: inline-block;
+  align-self: flex-start;
+  width: fit-content;
+  padding: 5px 11px;
+  background: #f1edef;
+  border: 1px solid #e5dce0;
+  border-radius: 20px;
+  color: var(--plum);
+  font-size: .75rem;
+  font-weight: 600;
+  line-height: 1.4;
+  margin-bottom: 18px;
+}
+.research-card h3 {
+  color: var(--ink);
+  font-size: clamp(1.22rem, 2.2vw, 1.5rem);
+  line-height: 1.35;
+  letter-spacing: -.025em;
+  font-weight: 700;
+  margin: 0 0 14px;
+}
+.research-card p {
+  color: var(--muted);
+  font-size: .9rem;
+  line-height: 1.6;
+  margin: 0;
+}
+.projects-cta { margin-top: 40px; }
+.projects-cta h2 { margin-top: 10px; }
+.featured-project { background: var(--white); border: 1px solid var(--line); border-left: 4px solid var(--sage); border-radius: 12px; padding: 28px; margin-top: 20px; }
+.featured-project h2, .featured-project h3 { margin: 10px 0 12px; font-size: 1.35rem; letter-spacing: -.025em; }
+.featured-project p { color: #555a60; max-width: 800px; }
+.featured-project a { font-weight: 650; text-decoration-thickness: 1px; }
+.project-tags { display: flex; flex-wrap: wrap; gap: 8px; margin: 17px 0; }
+.project-tags span { padding: 5px 11px; background: #f1edef; border: 1px solid #e5dce0; border-radius: 20px; color: var(--plum); font-size: .75rem; font-weight: 600; }
+.page-intro { padding: 16px 0 8px; }
+.page-intro h1 { font-size: clamp(2.2rem, 4.5vw, 3.3rem); letter-spacing: -.05em; line-height: 1.12; margin: 16px 0 18px; }
+.page-intro p { font-size: 1.03rem; color: #565963; }
+.topic-list { border-top: 1px solid var(--line); margin-top: 28px; }
+.topic { border-bottom: 1px solid var(--line); padding: 24px 0; }
+.topic h3 { color: var(--plum); font-size: 1.17rem; margin: 0 0 7px; }
+.topic p { margin: 0; color: var(--muted); }
+.quiet-note { font-size: .83rem; color: #797a7e; margin-top: 33px; }
+.nav-footer { background: transparent !important; border-top: 1px solid var(--line); }
+.nav-footer, .nav-footer a { color: #777981 !important; font-size: .78rem; }
+@media (max-width: 700px) {
+  #quarto-document-content { padding: 24px 17px 52px !important; }
+  .research-grid { grid-template-columns: 1fr; gap: 12px; }
+  .hero { padding: 30px 23px; }
+  .featured-project { padding: 22px; }
+}
+
+/* About: portrait beside biography, stacked on narrow screens. */
+.about-profile {
+  display: grid;
+  grid-template-columns: 190px minmax(0, 1fr);
+  gap: 30px;
+  align-items: start;
+  margin-top: 20px;
+}
+.about-profile-photo img {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 4 / 5;
+  object-fit: cover;
+  object-position: center top;
+  border-radius: 12px;
+  border: 1px solid var(--line);
+}
+.about-profile-text p:first-child { margin-top: 0; }
+.about-profile-text p { color: #555a60; }
+@media (max-width: 600px) {
+  .about-profile { grid-template-columns: 1fr; gap: 18px; }
+  .about-profile-photo { width: min(190px, 55%); }
+}
+
+/* Research page: separate real-world examples from research questions. */
+.topic p + p {
+  margin-top: 14px;
+  padding: 13px 16px;
+  background: #f1eeec;
+  border-left: 3px solid var(--sage);
+  border-radius: 0 8px 8px 0;
+  font-size: .93rem;
+  line-height: 1.6;
+}
+.topic p + p strong {
+  color: var(--ink);
+  font-weight: 650;
+}
