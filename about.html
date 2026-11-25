@@ -94,12 +94,12 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./projects.html"> 
-<span class="menu-text">Projects</span></a>
-  </li>  
-  <li class="nav-item">
     <a class="nav-link" href="./research.html"> 
 <span class="menu-text">Research</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./projects.html"> 
+<span class="menu-text">Projects</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link active" href="./about.html" aria-current="page"> 
@@ -143,23 +143,31 @@ ul.task-list li input[type="checkbox"] {
 <div class="eyebrow">
 ABOUT
 </div>
-<p>AI Governance Lab is an independent, early-stage research initiative developed by Caio Velasco. It brings together interests in artificial intelligence, evidence-based public policy, and empirical research.</p>
+<section id="about-the-lab" class="level1">
+<h1>About the Lab</h1>
+<p>AI Governance Lab is an independent, early-stage research and technology initiative working at the intersection of artificial intelligence, human decision-making, governance, and public policy.</p>
+<p>Its mission is to <strong>advance governance and public policy through the design, development, and rigorous evaluation of AI systems</strong>. The Lab aims to connect empirical research with practical technology, without separating the building of AI systems from examining their benefits, risks, and real-world effects.</p>
+</section>
 </div>
 <div class="about-profile">
 <div class="about-profile-photo">
 <p><img src="images/caio_ucla.JPG" alt="Portrait of Caio Velasco" loading="lazy"></p>
 </div>
 <div class="about-profile-text">
-<p>Caio’s background spans mechanical engineering (UFRJ, graduating first in his class), a <strong>Master’s in Economics &amp; Public Policy</strong> (UCLA, full sholarship), doctoral training in economics at Tilburg University, and over six years of work in data science and applied analytics. He has also contributed to academic research at UCLA and Royal Holloway (University of London).</p>
-<p>In nearly 10 years living across the USA, the Netherlands, Portugal, and Spain, his academic path has been supported by recognition from the <em>Lemann Foundation, General Electric Foundation, Yale University</em>, and the <em>Club of Rome</em>.</p>
-<p>His methodological interests include statistics, econometrics, causal inference, and applied machine learning. <strong>AI Governance Lab</strong> is a space to explore how those approaches might help answer practical questions about AI governance, safety, accountability, and societal impact.</p>
+<p>Caio Velasco graduated first in his class in Mechanical Engineering at the Federal University of Rio de Janeiro (UFRJ), earned a <strong>Master of Public Policy at UCLA</strong> (full scholarship), and undertook first-year doctoral coursework in Economics at Tilburg University. He brings over six years of experience in data science and applied analytics, alongside academic research at UCLA and Royal Holloway (University of London).</p>
+<p>His international academic trajectory includes recognition and support from the Lemann Foundation, General Electric Foundation, Yale University, and Club of Rome.</p>
+<p>His expertise spans AI and machine learning, statistics, econometrics, causal inference, and modern data platforms. Through <strong>AI Governance Lab</strong>, he brings these disciplines together to advance AI development, evaluation, governance, and public policy.</p>
 </div>
 </div>
-<section id="send-me-a-message" class="level2">
-<h2 data-anchor-id="send-me-a-message">Send me a message</h2>
-<p><a href="https://www.linkedin.com/in/caiovelasco/">LinkedIn ↗</a> ·<a href="https://caiocvelasco.github.io/">Personal portfolio ↗</a> · <a href="https://github.com/caiocvelasco">GitHub ↗</a></p>
+<section id="research-collaboration" class="level2">
+<h2 data-anchor-id="research-collaboration">Research &amp; Collaboration</h2>
+<p>The Lab is open to conversations about independent research, academic collaborations, and carefully scoped applied AI projects with public institutions, researchers, policy organizations, and organizations in regulated sectors.</p>
+</section>
+<section id="get-in-touch" class="level2">
+<h2 data-anchor-id="get-in-touch">Get in Touch</h2>
+<p><a href="https://www.linkedin.com/in/caiovelasco/">LinkedIn ↗</a> · <a href="https://caiocvelasco.github.io/">Personal Portfolio ↗</a> · <a href="https://github.com/caiocvelasco">GitHub ↗</a></p>
 <p class="quiet-note">
-This is an independently developed initiative. No affiliation, endorsement, or partnership with a research institution or other organization is implied.
+This is an independently developed, early-stage initiative. No institutional affiliation, endorsement, existing partnership, deployed product, or completed study is implied.
 </p>
 
 
@@ -231,7 +239,7 @@ This is an independently developed initiative. No affiliation, endorsement, or p
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/caiocvelasco\.github\.io\/ai-governance-lab\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

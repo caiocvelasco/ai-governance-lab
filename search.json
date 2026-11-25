@@ -4,62 +4,97 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "RESEARCH\n\n\nQuestions worth investigating\nAI Governance Lab explores how evidence can make AI governance decisions more informed, transparent, and accountable. These are emerging research interests, not a catalogue of completed work.\n\n\n\n\nAI governance and accountability\nHow can institutions assess claims about AI systems and translate evidence into meaningful oversight and accountability?\nReal-world example: A government agency uses AI to help decide who receives public services. How can it explain those decisions, check for unfair outcomes, and remain accountable to the people affected?\n\n\nAI safety and risk evaluation\nWhat can evaluations tell us about the risks of AI systems, and which uncertainties remain when findings are applied outside controlled settings?\nReal-world example: A hospital considers using an AI tool to support medical decisions. How can it test when the tool makes mistakes and whether it remains reliable with different patients?\n\n\nSocietal impact and public policy\nHow can we examine the real-world consequences of AI deployment, including who benefits, who bears costs, and under what conditions?\nReal-world example: A city introduces AI to improve public transport. Does it actually help commuters, and are the benefits shared across neighborhoods?\n\n\nEmpirical methods\nWhere can statistics, causal inference, impact evaluation, and applied machine learning improve the quality of evidence used in governance?\nReal-world example: After a public agency adopts AI, processing times fall. Did AI cause the improvement, or did other changes happen at the same time?\n\n\n\nThese examples are illustrative, not completed studies. Specific research questions and methods will be refined as individual projects develop."
+    "text": "RESEARCH & IDEAS\n\n\n\nResearch directions, potential applications, and real-world use cases across the Lab’s two complementary pillars. These are ideas for investigation, not completed studies or announced projects."
+  },
+  {
+    "objectID": "research.html#governance-of-ai",
+    "href": "research.html#governance-of-ai",
+    "title": "Research",
+    "section": "Governance of AI",
+    "text": "Governance of AI\nUnderstanding how AI systems should be assessed, governed, and held accountable.\n\n\n\nRESEARCH IDEA · ILLUSTRATIVE\n\n\nAccountability, safety, and oversight\n\nSocial Welfare Public Administration\n\nHow can institutions evaluate AI systems, identify risks, and remain accountable for AI-assisted decisions?\n\nReal-world example\n\nA government agency uses AI to help review applications for social assistance. What safeguards, explanations, and appeal mechanisms should protect people affected by its recommendations?\n\n\n\n\n\n\nRESEARCH IDEA · ILLUSTRATIVE\n\n\nEvidence and real-world impact\n\nHealthcare\n\nHow can we distinguish claims of AI effectiveness from reliable evidence about its actual consequences?\n\nReal-world example\n\nA hospital introduces AI-assisted clinical decision support. Does it improve outcomes for patients, or only perform well on a test dataset? How could researchers assess the difference?"
+  },
+  {
+    "objectID": "research.html#ai-for-governance",
+    "href": "research.html#ai-for-governance",
+    "title": "Research",
+    "section": "AI for Governance",
+    "text": "AI for Governance\nExploring the design and evaluation of AI systems that could improve institutional work, public policy, and human decision-making.\n\n\n\nRESEARCH IDEA · ILLUSTRATIVE\n\n\nHuman-AI decision-making\n\nRegulatory Oversight\n\nHow should people and AI systems work together when institutional decisions have important consequences?\n\nReal-world example\n\nA regulator uses an AI agent to flag cases for review. How should staff verify its recommendations, correct mistakes, and retain control over final decisions?\n\n\n\n\n\n\nRESEARCH IDEA · ILLUSTRATIVE\n\n\nAI tools for policy and regulatory work\n\nPublic Policy\n\nWhat kinds of AI tools could help institutions analyze evidence, monitor developments, or improve public-sector processes?\n\nReal-world example\n\nA policy team needs to examine thousands of consultation submissions. Could an AI tool organize recurring themes and supporting evidence while keeping its findings traceable to the original documents?"
+  },
+  {
+    "objectID": "research.html#connecting-research-and-implementation",
+    "href": "research.html#connecting-research-and-implementation",
+    "title": "Research",
+    "section": "Connecting Research and Implementation",
+    "text": "Connecting Research and Implementation\nA research question may lead to a policy analysis, an empirical evaluation, a prototype, or a collaboration with another institution. Some projects may involve Design → Develop → Evaluate; others may focus on one stage. Governance considerations and evidence quality matter throughout.\nThe Lab draws on AI, machine learning, statistics, econometrics, causal inference, economics, public policy, decision science, and software engineering. Methods should follow the questions being investigated.\nExplore existing projects and prototypes →\n\nAll use cases are hypothetical examples, not commissioned work or existing deployments. Research topics and possible collaborations remain open to refinement."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "EVIDENCE-BASED AI GOVERNANCE & SOCIETAL IMPACT\n\n\n\nExploring how empirical research, quantitative methods, and public policy can inform the governance of AI systems and their societal impacts."
+    "text": "INDEPENDENT RESEARCH & TECHNOLOGY LAB\n\n\n\nDesigning, developing, and rigorously evaluating AI systems to support better decisions, stronger institutions, and evidence-based public policy.\n\nExplore research & ideas About the Lab →"
   },
   {
-    "objectID": "index.html#areas-of-focus",
-    "href": "index.html#areas-of-focus",
+    "objectID": "index.html#two-complementary-pillars",
+    "href": "index.html#two-complementary-pillars",
     "title": "Home",
-    "section": "Areas of Focus",
-    "text": "Areas of Focus\nConnecting empirical evidence, technical evaluation, and public policy to support better decisions about AI.\n\n\n\nAI Governance\n\n\nWho should be accountable for AI?\nInstitutions, Accountability, and Public Policy.\n\n\n\n\nAI Safety & Risk\n\n\nHow can we prevent AI-related harm?\nEvaluation, Uncertainty, and Oversight.\n\n\n\n\nSocietal Impact\n\n\nHow does AI affect people and society?\nSustainability, AI Impact Assessment, Public Interest, and Real-World Consequences.\n\n\n\n\nEmpirical Methods\n\n\nWhat works, for whom, and why?\nStatistics, Causal Inference, Machine Learning, and Impact Evaluation.\n\n\n\n\n\nFROM IDEAS TO PRACTICE\n\n\nExplore our projects\nDiscover early-stage research and applied concepts exploring how evidence can inform AI governance, risk assessment, and societal impact.\nView all projects →\n\n\n\nAI Governance Lab is an independent initiative in its early stages.  The areas of focus above are interests, not claims of completed studies or institutional partnerships."
+    "section": "Two Complementary Pillars",
+    "text": "Two Complementary Pillars\nWe explore both how AI should be governed and how AI can improve governance.\n\n\n\nGOVERNANCE OF AI\n\nHow can we ensure AI systems are effective, safe, accountable, and beneficial?\nResearch, risk and impact assessment, evidence-based evaluation, and institutional oversight.\n\n\n\nAI FOR GOVERNANCE\n\nHow can we design AI systems that improve institutional decisions and public services?\nHuman-AI decision support, applied AI systems, GovTech, RegTech, and policy tools.\n\n\n\n\nONE INTEGRATED APPROACH\n\n\nDesign → Develop → Evaluate\nThe two pillars can work together throughout a project’s lifecycle: from understanding institutional challenges and developing AI solutions to evaluating their real-world impact. Projects may cover the full lifecycle or focus on individual stages. Governance and empirical evidence inform the process from the beginning.\n\n\n\n\n\n01\n\n\nDesign\nUnderstand decisions, user needs, potential benefits, and risks.\n\n\n\n\n02\n\n\nDevelop\nBuild and integrate AI-enabled tools with human oversight.\n\n\n\n\n03\n\n\nEvaluate\nExamine effectiveness, fairness, uncertainty, and real-world impact.\n\n\n\n\n\nEXPLORE THE LAB\n\n\nResearch & Projects\nExplore the questions we want to investigate and the concepts we have already started developing. Both extend across the Lab’s two pillars.\n\n\nResearch & Ideas\nResearch questions, potential AI applications, and real-world use cases in governance and public policy.\nExplore research →\n\n\nProjects & Prototypes\nEarly-stage research concepts and AI tools, including the Lab’s two existing prototypes.\nView projects →\n\n\n\n\n\n\nEUROPEAN RESEARCH & COLLABORATION\n\n\nAligned with Europe’s Research Priorities\nThe Lab’s interests intersect with European-funded research and initiatives in adaptive regulation, human-AI collaboration, AI-supported policymaking, and AI-enabled science.\n\n\n\nMSCA DOCTORAL NETWORK\n\n\nREGULAIRE ↗\nHow can regulation adapt and learn as technologies evolve?\n\n\n\n\nMSCA DOCTORAL NETWORK\n\n\nEMANAIRE ↗\nHow does AI change human agency, work, and decisions?\n\n\n\n\nHORIZON EUROPE PROJECT\n\n\nAI4POL ↗\nHow can AI help regulators and policymakers govern technology?\n\n\n\n\nEUROPEAN AI IN SCIENCE INITIATIVE\n\n\nRAISE ↗\nHow can AI accelerate research and scientific discovery?\n\n\n\nThe Lab is open to discussing joint research proposals, collaborative evaluations, and applied AI projects with academic and institutional partners.\n\nThese are independent initiatives illustrating thematic alignment, not Lab affiliations, awarded grants, or endorsements.\n\n\n\n\nAI Governance Lab is an independent initiative in its early stages. Its pillars describe intended areas of work, not completed studies, deployed products, or established institutional partnerships."
   },
   {
-    "objectID": "index.html#explore-our-projects",
-    "href": "index.html#explore-our-projects",
+    "objectID": "index.html#research-projects",
+    "href": "index.html#research-projects",
     "title": "Home",
-    "section": "Explore our projects",
-    "text": "Explore our projects\nDiscover early-stage research and applied concepts exploring how evidence can inform AI governance, risk assessment, and societal impact.\nView all projects →"
+    "section": "Research & Projects",
+    "text": "Research & Projects\nExplore the questions we want to investigate and the concepts we have already started developing. Both extend across the Lab’s two pillars.\n\n\nResearch & Ideas\nResearch questions, potential AI applications, and real-world use cases in governance and public policy.\nExplore research →\n\n\nProjects & Prototypes\nEarly-stage research concepts and AI tools, including the Lab’s two existing prototypes.\nView projects →"
+  },
+  {
+    "objectID": "index.html#aligned-with-europes-research-priorities",
+    "href": "index.html#aligned-with-europes-research-priorities",
+    "title": "Home",
+    "section": "Aligned with Europe’s Research Priorities",
+    "text": "Aligned with Europe’s Research Priorities\nThe Lab’s interests intersect with European-funded research and initiatives in adaptive regulation, human-AI collaboration, AI-supported policymaking, and AI-enabled science.\n\n\n\nMSCA DOCTORAL NETWORK\n\n\nREGULAIRE ↗\nHow can regulation adapt and learn as technologies evolve?\n\n\n\n\nMSCA DOCTORAL NETWORK\n\n\nEMANAIRE ↗\nHow does AI change human agency, work, and decisions?\n\n\n\n\nHORIZON EUROPE PROJECT\n\n\nAI4POL ↗\nHow can AI help regulators and policymakers govern technology?\n\n\n\n\nEUROPEAN AI IN SCIENCE INITIATIVE\n\n\nRAISE ↗\nHow can AI accelerate research and scientific discovery?\n\n\n\nThe Lab is open to discussing joint research proposals, collaborative evaluations, and applied AI projects with academic and institutional partners.\n\nThese are independent initiatives illustrating thematic alignment, not Lab affiliations, awarded grants, or endorsements."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "ABOUT\n\nAI Governance Lab is an independent, early-stage research initiative developed by Caio Velasco. It brings together interests in artificial intelligence, evidence-based public policy, and empirical research."
+    "text": "ABOUT\n\n\n\nAI Governance Lab is an independent, early-stage research and technology initiative working at the intersection of artificial intelligence, human decision-making, governance, and public policy.\nIts mission is to advance governance and public policy through the design, development, and rigorous evaluation of AI systems. The Lab aims to connect empirical research with practical technology, without separating the building of AI systems from examining their benefits, risks, and real-world effects."
   },
   {
-    "objectID": "about.html#send-me-a-message",
-    "href": "about.html#send-me-a-message",
+    "objectID": "about.html#research-collaboration",
+    "href": "about.html#research-collaboration",
     "title": "About",
-    "section": "Send me a message",
-    "text": "Send me a message\nLinkedIn ↗ ·Personal portfolio ↗ · GitHub ↗\n\nThis is an independently developed initiative. No affiliation, endorsement, or partnership with a research institution or other organization is implied."
+    "section": "Research & Collaboration",
+    "text": "Research & Collaboration\nThe Lab is open to conversations about independent research, academic collaborations, and carefully scoped applied AI projects with public institutions, researchers, policy organizations, and organizations in regulated sectors."
+  },
+  {
+    "objectID": "about.html#get-in-touch",
+    "href": "about.html#get-in-touch",
+    "title": "About",
+    "section": "Get in Touch",
+    "text": "Get in Touch\nLinkedIn ↗ · Personal Portfolio ↗ · GitHub ↗\n\nThis is an independently developed, early-stage initiative. No institutional affiliation, endorsement, existing partnership, deployed product, or completed study is implied."
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "PROJECTS\n\n\n\nA small collection of questions and research ideas under development. Project labels describe their current status.\nAdditional projects will be shared as substantive work develops."
+    "text": "PROJECTS & PROTOTYPES\n\n\n\nThis page showcases early-stage research and technology concepts developed to explore potential applications of the Lab’s two pillars. Each illustrates how ideas can translate into practical research questions, methodologies, or AI-powered solutions.\nThese are exploratory concepts, not completed empirical studies, validated methodologies, or deployed products.\nNew research, collaborations, and applied AI projects will be added here as substantive work develops."
   },
   {
     "objectID": "projects.html#ai-governance-evidence-lab",
     "href": "projects.html#ai-governance-evidence-lab",
     "title": "Projects",
     "section": "AI Governance Evidence Lab",
-    "text": "AI Governance Evidence Lab\nA proposed framework for examining evidence behind claims about AI systems. It asks what evaluations, audits, and observations actually establish - and how governance decisions should account for uncertainty.\nThe concept includes an illustrative case on AI-assisted hiring.\nIt is not a validated assessment tool or completed empirical study.\n\nAI Governance Empirical Methods\n\nExplore the research concept ↗"
+    "text": "AI Governance Evidence Lab\n\nEmployment & Recruitment\n\nAn independent research concept examining the evidence behind claims about AI systems: what audits and evaluations can establish, what remains uncertain, and how findings could inform oversight decisions.\nIts illustrative AI-assisted hiring case is hypothetical. This is a proposed research framework, not a completed evaluation.\n\nGovernance of AI\n\nExplore the research concept ↗"
   },
   {
     "objectID": "projects.html#ai-impact-self-assessment",
     "href": "projects.html#ai-impact-self-assessment",
     "title": "Projects",
     "section": "AI Impact Self-Assessment",
-    "text": "AI Impact Self-Assessment\nAn early-stage concept exploring how an AI-assisted, human-in-the-loop approach could help organizations reflect on the societal impacts of their AI applications, examine supporting evidence, and identify potential risks and gaps.\nIt is a proposed approach, not an operational or validated assessment tool.\n\nSocietal Impact AI Governance\n\nExplore the tool concept ↗"
+    "text": "AI Impact Self-Assessment\n\nPublic Administration Regulated Industries\n\nA concept for an AI-assisted, human-in-the-loop tool that could help organizations examine societal impacts, assess potential risks, and reflect on the quality of supporting evidence.\nIt brings together governance and the possible development of an applied AI tool, but is not an operational or validated assessment product.\n\nGovernance of AI AI for Governance\n\nExplore the tool concept ↗"
   }
 ]
