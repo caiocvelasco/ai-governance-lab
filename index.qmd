@@ -4,67 +4,154 @@ page-title: "AI Governance Lab"
 ---
 
 ::: {.hero}
-<div class="eyebrow">EVIDENCE-BASED AI GOVERNANCE & SOCIETAL IMPACT</div>
+<div class="eyebrow">INDEPENDENT RESEARCH &amp; TECHNOLOGY LAB</div>
 
-# Building evidence for better AI governance.
+# Advancing governance and public policy through AI.
 
-Exploring how empirical research, quantitative methods, and public policy can inform the governance of AI systems and their societal impacts.
+Designing, developing, and rigorously evaluating AI systems to support better decisions, stronger institutions, and evidence-based public policy.
+
+<div class="hero-links">
+  <a class="hero-primary" href="research.qmd">Explore research & ideas</a>
+  <a class="hero-secondary" href="about.qmd">About the Lab →</a>
+</div>
 :::
 
 <br>
 
+## Two Complementary Pillars
 
-## Areas of Focus
+We explore **both** how AI should be governed **and** how AI can improve governance.
 
-Connecting empirical evidence, technical evaluation, and public policy to support better decisions about AI.
+::: {.research-grid .pillar-grid}
 
-::: {.research-grid}
+::: {.research-card .pillar-card}
+<div class="focus-tag">GOVERNANCE OF AI</div>
 
-::: {.research-card}
-<div class="focus-tag">AI Governance</div>
+**How can we ensure AI systems are effective, safe, accountable, and beneficial?**
 
-### Who should be accountable for AI?
-
-Institutions, Accountability, and Public Policy.
+Research, risk and impact assessment, evidence-based evaluation, and institutional oversight.
 :::
 
-::: {.research-card}
-<div class="focus-tag">AI Safety & Risk</div>
+::: {.research-card .pillar-card}
+<div class="focus-tag focus-tag-sage">AI FOR GOVERNANCE</div>
 
-### How can we prevent AI-related harm?
+**How can we design AI systems that improve institutional decisions and public services?**
 
-Evaluation, Uncertainty, and Oversight.
-:::
-
-::: {.research-card}
-<div class="focus-tag">Societal Impact</div>
-
-### How does AI affect people and society?
-
-Sustainability, AI Impact Assessment, Public Interest, and Real-World Consequences.
-:::
-
-::: {.research-card}
-<div class="focus-tag">Empirical Methods</div>
-
-### What works, for whom, and why?
-
-Statistics, Causal Inference, Machine Learning, and Impact Evaluation.
+Human-AI decision support, applied AI systems, GovTech, RegTech, and policy tools.
 :::
 
 :::
 
+::: {.integrated-approach}
+<div class="eyebrow">ONE INTEGRATED APPROACH</div>
+
+### Design → Develop → Evaluate
+
+The two pillars can work together throughout a project's lifecycle: from understanding institutional challenges and developing AI solutions to evaluating their real-world impact. **Projects may cover the full lifecycle or focus on individual stages.** Governance and empirical evidence inform the process from the beginning.
+:::
+
+::: {.lifecycle-grid}
+
+::: {.lifecycle-step}
+<div class="step-number">01</div>
+
+### Design
+
+Understand decisions, user needs, potential benefits, and risks.
+:::
+
+::: {.lifecycle-step}
+<div class="step-number">02</div>
+
+### Develop
+
+Build and integrate AI-enabled tools with human oversight.
+:::
+
+::: {.lifecycle-step}
+<div class="step-number">03</div>
+
+### Evaluate
+
+Examine effectiveness, fairness, uncertainty, and real-world impact.
+:::
+
+:::
 
 ::: {.projects-cta}
+<div class="eyebrow">EXPLORE THE LAB</div>
 
-<div class="eyebrow">FROM IDEAS TO PRACTICE</div>
+## Research & Projects
 
-## Explore our projects
+Explore the questions we want to investigate and the concepts we have already started developing. Both extend across the Lab's two pillars.
 
-Discover early-stage research and applied concepts exploring how evidence can inform AI governance, risk assessment, and societal impact.
+::: {.work-grid}
 
-[View all projects →](projects.qmd)
+::: {.work-card}
+### Research & Ideas
+
+Research questions, potential AI applications, and real-world use cases in governance and public policy.
+
+[Explore research →](research.qmd)
+:::
+
+::: {.work-card}
+### Projects & Prototypes
+
+Early-stage research concepts and AI tools, including the Lab's two existing prototypes.
+
+[View projects →](projects.qmd)
+:::
+
+:::
+:::
+
+::: {.europe-section}
+<div class="eyebrow">EUROPEAN RESEARCH &amp; COLLABORATION</div>
+
+## Aligned with Europe's Research Priorities
+
+The Lab's interests intersect with European-funded research and initiatives in adaptive regulation, human-AI collaboration, AI-supported policymaking, and AI-enabled science.
+
+::: {.initiative-grid}
+
+::: {.initiative-card}
+<div class="initiative-type">MSCA DOCTORAL NETWORK</div>
+
+### [REGULAIRE ↗](https://cordis.europa.eu/project/id/101312218)
+
+How can regulation adapt and learn as technologies evolve?
+:::
+
+::: {.initiative-card}
+<div class="initiative-type">MSCA DOCTORAL NETWORK</div>
+
+### [EMANAIRE ↗](https://cordis.europa.eu/project/id/101311637)
+
+How does AI change human agency, work, and decisions?
+:::
+
+::: {.initiative-card}
+<div class="initiative-type">HORIZON EUROPE PROJECT</div>
+
+### [AI4POL ↗](https://cordis.europa.eu/project/id/101177455)
+
+How can AI help regulators and policymakers govern technology?
+:::
+
+::: {.initiative-card}
+<div class="initiative-type">EUROPEAN AI IN SCIENCE INITIATIVE</div>
+
+### [RAISE ↗](https://research-and-innovation.ec.europa.eu/strategy/strategy-research-and-innovation/our-digital-future/european-ai-science-strategy/raise-resource-ai-science-europe_en)
+
+How can AI accelerate research and scientific discovery?
+:::
 
 :::
 
-<p class="quiet-note">AI Governance Lab is an independent initiative in its early stages. <br> The areas of focus above are interests, not claims of completed studies or institutional partnerships.</p>
+The Lab is open to discussing **joint research proposals, collaborative evaluations, and applied AI projects** with academic and institutional partners.
+
+<p class="initiative-disclaimer"><em>These are independent initiatives illustrating thematic alignment, not Lab affiliations, awarded grants, or endorsements.</em></p>
+:::
+
+<p class="quiet-note">AI Governance Lab is an independent initiative in its early stages. Its pillars describe intended areas of work, not completed studies, deployed products, or established institutional partnerships.</p>

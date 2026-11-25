@@ -1,42 +1,45 @@
 # AI Governance Lab
 
-An independent, early-stage research initiative exploring how empirical evidence and quantitative methods can inform AI governance and societal impact.
+An independent, early-stage **research and technology initiative** at the intersection of artificial intelligence, human decision-making, governance, and public policy.
 
-The website is built with [Quarto](https://quarto.org/) and designed to remain small as research projects develop.
+**Mission:** Advancing governance and public policy through the design, development, and rigorous evaluation of AI systems.
+
+The Lab explores two complementary pillars: **AI Governance & Evaluation** (governance of AI) and **AI for Governance & Public Policy** (AI for governance). Its integrated approach is **Design → Develop → Evaluate**.
+
+The website is built with [Quarto](https://quarto.org/), uses a small set of static pages, and deliberately distinguishes aspirations and research concepts from validated work or established services.
 
 ## Pages
 
-- `index.qmd` — homepage, research directions, and featured project
-- `research.qmd` — emerging research questions
-- `projects.qmd` — research concepts and projects (currently one)
-- `about.qmd` — researcher background and links
+- `index.qmd` — mission, two pillars, lifecycle, and link to projects
+- `research.qmd` — research questions and illustrative use cases
+- `projects.qmd` — two early-stage prototypes and their status
+- `about.qmd` — background, mission, and collaboration information
+- `_quarto.yml` — navigation and website settings
+- `styles.css` — visual styles
+- `.gitignore` — generated/local files excluded from version control
 
-`_quarto.yml` controls the website and navigation; `styles.css` defines the visual design.
+## Portrait
+
+`about.qmd` refers to `images/caio_ucla.JPG`. Copy the photograph into that location, preserving capitalization. The image is **not included** in this ZIP because it was not uploaded.
 
 ## Preview locally
 
-Install [Quarto](https://quarto.org/docs/get-started/) and open a terminal in the repository folder:
+Install [Quarto](https://quarto.org/docs/get-started/) and run from the repository root:
 
 ```bash
 quarto preview
 ```
 
-To generate static files locally:
+Build with:
 
 ```bash
 quarto render
 ```
 
-## Publish to GitHub Pages
+## Publish
 
-1. Create the public repository `ai-governance-lab` on GitHub.
-2. Upload these eight source files to the repository root (include `.gitignore`).
-3. On a computer with Quarto and Git installed, clone the repository and run `quarto publish gh-pages` from its root. Follow the prompts to publish the website to the `gh-pages` branch.
-4. In GitHub **Settings → Pages**, set the source to **Deploy from a branch**, selecting `gh-pages` and `/ (root)` if Quarto did not set this automatically.
-5. Check the temporary website URL: `https://caiocvelasco.github.io/ai-governance-lab/`.
-
-The custom domain `aigovernancelab.org` is intentionally **not configured** here. Add the domain to GitHub Pages and update DNS separately after the temporary URL works.
+If your existing GitHub Pages deployment is managed by Quarto, run `quarto publish gh-pages` from the repository root and follow its prompts. Keep your existing GitHub Pages custom-domain configuration for [aigovernancelab.org](https://aigovernancelab.org/); this package does not change DNS or hosting settings. Confirm the site configuration before publishing.
 
 ## Research integrity
 
-This is an independent initiative, not an established academic institution. Research directions are prospective, and the featured AI Governance Evidence Lab is a research concept—not a completed empirical study or validated tool. No institutional endorsement is implied.
+This is an independent early-stage initiative. Current prototypes are concepts, not deployed products, completed empirical studies, or validated assessment methods. No institutional affiliation, endorsement, or partnership is implied.
