@@ -1,1 +1,1 @@
-Sitemap: https://caiocvelasco.github.io/ai-governance-lab/sitemap.xml
+Sitemap: https://aigovernancelab.org/sitemap.xml
