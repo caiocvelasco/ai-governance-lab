@@ -110,30 +110,6 @@ main p { line-height: 1.65; }
 @media (max-width: 800px) { .about-panel { grid-template-columns: 90px minmax(0, 1fr); gap: 16px; } .about-portrait { width: 90px; } .about-photo-placeholder, .about-photo { width: 90px; height: 108px; } .about-aside { grid-column: 2; border-left: 0; padding-left: 0; } }
 @media (max-width: 520px) { .about-panel { grid-template-columns: 74px minmax(0,1fr); gap: 13px; } .about-portrait { width: 74px; } .about-photo-placeholder, .about-photo { width: 74px; height: 90px; } }
 
-/* AI Governance Lab — shared project identity */
-.lab-project-bar {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  flex-wrap: wrap;
-  gap: 10px 20px;
-  padding: 20px 0 12px;
-  border-bottom: 1px solid var(--line);
-  font-size: .82rem;
-}
-.lab-project-brand { display: flex; align-items: center; flex-wrap: wrap; gap: 9px; }
-.lab-project-bar a { color: var(--ink); text-decoration: none; font-weight: 650; }
-.lab-project-bar a:hover { color: var(--plum); text-decoration: underline; }
-.lab-project-bar a:focus-visible { outline: 2px solid var(--plum); outline-offset: 4px; }
-.lab-project-separator, .lab-project-category { color: var(--muted); }
-.lab-project-back { white-space: nowrap; }
-main p.lab-project-note { margin: 10px 0 0; color: var(--muted); font-size: .78rem; line-height: 1.5; }
-.lab-project-note + .eyebrow { padding-top: 22px; }
-@media (max-width: 520px) {
-  .lab-project-bar { padding-top: 16px; font-size: .78rem; }
-  .lab-project-brand { gap: 6px; }
-}
-
 /* Project classification — shared AI Governance Lab palette. */
 .lab-project-tags { display: flex; flex-wrap: wrap; gap: 8px; margin: 17px 0 0; }
 .lab-project-tags span { display: inline-block; padding: 5px 11px; border-radius: 20px; font-size: .75rem; font-weight: 600; line-height: 1.4; }
@@ -142,3 +118,12 @@ main p.lab-project-note { margin: 10px 0 0; color: var(--muted); font-size: .78r
 .lab-project-tags .application-tag { background: #f4f3f1; border: 1px solid #dfdedb; color: var(--muted); }
 .lab-project-stage.eyebrow { padding: 18px 0 16px; }
 .hero h1:first-child { margin-top: 0; }
+
+/* Shared site navigation — match the main AI Governance Lab menu. */
+.navbar { background: var(--paper) !important; border-bottom: 1px solid var(--line); }
+.navbar-brand { color: var(--ink) !important; font-weight: 750; letter-spacing: -.025em; }
+.navbar .nav-link { color: var(--muted) !important; font-size: .91rem; }
+.navbar .nav-link:hover, .navbar .nav-link.active { color: var(--plum) !important; }
+#quarto-document-content { padding-top: 44px !important; }
+.lab-project-tags { margin-top: 0; }
+@media (max-width: 700px) { #quarto-document-content { padding-top: 24px !important; } }
