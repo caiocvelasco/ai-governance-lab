@@ -306,3 +306,25 @@ main h3 { color: var(--ink); }
 .framework-links { margin-top: 20px; }
 .framework-links a { color: var(--plum); font-weight: 650; }
 @media(max-width: 540px) { .framework-pair { grid-template-columns: 1fr; gap: 10px; } .framework-fork i, .framework-join i { display: none; } .framework-fork::before, .framework-join::after { height: 32px; } .framework-process, .framework-projects { padding: 15px; } }
+
+/* Research & Ideas — lightweight horizontal cards (scoped to this page). */
+main h2.agenda-governance { color: var(--plum); }
+main h2.agenda-applied { color: #526f61; }
+.agenda-list { display: grid; grid-template-columns: minmax(0,1fr); gap: 14px; margin: 22px 0 34px; --agenda-accent: var(--plum); --agenda-tint: #f7f6f4; }
+.agenda-list.agenda-list-applied { --agenda-accent: #526f61; --agenda-tint: #f4f7f4; }
+.agenda-card { background: var(--white); border: 1px solid var(--line); border-radius: 12px; padding: 24px; min-width: 0; }
+.agenda-card h3 { margin: 0 0 18px; font-size: clamp(1.15rem, 2vw, 1.35rem); letter-spacing: -.025em; font-weight: 700; line-height: 1.35; }
+.agenda-columns { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: 24px; align-items: stretch; }
+.agenda-question, .agenda-example { min-width: 0; }
+.agenda-label { display: block; color: var(--muted); font-size: .67rem; font-weight: 750; letter-spacing: .075em; text-transform: uppercase; margin-bottom: 9px; }
+.agenda-card p { font-size: .92rem; line-height: 1.65; margin: 0; }
+.agenda-question p { color: var(--ink); }
+.agenda-example { padding: 15px 17px; border-radius: 8px; background: var(--agenda-tint); }
+.agenda-example .agenda-label { color: var(--agenda-accent); }
+.agenda-example p { color: #555a60; }
+.agenda-tags { display: flex; flex-wrap: wrap; gap: 7px; margin-top: 15px; }
+.agenda-tags span { display: inline-block; border: 1px solid var(--line); border-radius: 20px; background: #f4f3f1; color: var(--muted); font-size: .75rem; font-weight: 600; padding: 4px 10px; line-height: 1.4; }
+@media(max-width: 700px) {
+  .agenda-card { padding: 19px; }
+  .agenda-columns { grid-template-columns: minmax(0,1fr); gap: 17px; }
+}

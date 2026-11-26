@@ -1,7 +1,6 @@
 ---
 title: "From AI Claims to Evidence"
 subtitle: "From AI claims to evidence-informed governance decisions"
-navbar: false
 sidebar: false
 css: styles.css
 grid:
@@ -9,14 +8,6 @@ grid:
 ---
 
 ```{=html}
-<nav class="lab-project-bar" aria-label="AI Governance Lab project navigation">
-  <div class="lab-project-brand">
-    <a href="../../index.html" target="_self">AI Governance Lab</a>
-    <span class="lab-project-separator" aria-hidden="true">/</span>
-    <span class="lab-project-category">Projects</span>
-  </div>
-  <a class="lab-project-back" href="../../projects.html" target="_self"><span aria-hidden="true">←</span> All projects</a>
-</nav>
 <div class="lab-project-tags" aria-label="Project classification">
   <span class="pillar-tag">Governance of AI</span>
   <span class="application-tag">Employment &amp; Recruitment</span>

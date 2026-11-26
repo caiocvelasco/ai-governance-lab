@@ -6,8 +6,7 @@ css: styles.css
 
 ::: {.page-intro}
 <div class="eyebrow">RESEARCH &amp; APPLIED PROJECTS</div>
-
-# Projects
+<br>
 
 The Lab develops research and applied projects across two complementary pillars: **Governance of AI** and **AI for Governance**. Each project is identified by its type, development stage, relevant pillars, and potential application areas.
 

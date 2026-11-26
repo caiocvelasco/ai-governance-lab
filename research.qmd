@@ -5,96 +5,159 @@ css: styles.css
 
 ::: {.page-intro}
 <div class="eyebrow">RESEARCH &amp; IDEAS</div>
-
-# Questions Worth Investigating
+<br>
 
 Research directions, potential applications, and real-world use cases across the Lab's two complementary pillars. **These are ideas for investigation, not completed studies or announced projects.**
 :::
 
-## Governance of AI
+## Governance of AI {.agenda-pillar .agenda-governance}
 
 Understanding how AI systems should be assessed, governed, and held accountable.
 
-::: {.research-ideas-grid}
+::::: {.agenda-list .agenda-list-governance}
 
-::: {.featured-project .research-idea-card}
-<div class="eyebrow">RESEARCH IDEA · ILLUSTRATIVE</div>
+:::: {.agenda-card}
 
 ### Accountability, safety, and oversight
 
-<div class="application-tags" aria-label="Application areas">
-  <span>Social Welfare</span>
-  <span>Public Administration</span>
-</div>
+::: {.agenda-columns}
+
+::: {.agenda-question}
+```{=html}
+<span class="agenda-label">Research question</span>
+```
 
 How can institutions evaluate AI systems, identify risks, and remain accountable for AI-assisted decisions?
 
-<div class="research-idea-example">
-<strong>Real-world example</strong>
-<p>A government agency uses AI to help review applications for social assistance. What safeguards, explanations, and appeal mechanisms should protect people affected by its recommendations?</p>
+```{=html}
+<div class="agenda-tags" aria-label="Application areas">
+  <span>Social Welfare</span>
+  <span>Public Administration</span>
 </div>
+```
 :::
 
-::: {.featured-project .research-idea-card}
-<div class="eyebrow">RESEARCH IDEA · ILLUSTRATIVE</div>
+::: {.agenda-example}
+```{=html}
+<span class="agenda-label">Illustrative use case</span>
+```
+
+A government agency uses AI to help review applications for social assistance. What safeguards, explanations, and appeal mechanisms should protect people affected by its recommendations?
+
+:::
+
+:::
+
+::::
+
+:::: {.agenda-card}
 
 ### Evidence and real-world impact
 
-<div class="application-tags" aria-label="Application areas">
-  <span>Healthcare</span>
-</div>
+::: {.agenda-columns}
+
+::: {.agenda-question}
+```{=html}
+<span class="agenda-label">Research question</span>
+```
 
 How can we distinguish claims of AI effectiveness from reliable evidence about its actual consequences?
 
-<div class="research-idea-example">
-<strong>Real-world example</strong>
-<p>A hospital introduces AI-assisted clinical decision support. Does it improve outcomes for patients, or only perform well on a test dataset? How could researchers assess the difference?</p>
+```{=html}
+<div class="agenda-tags" aria-label="Application areas">
+  <span>Healthcare</span>
 </div>
+```
 :::
+
+::: {.agenda-example}
+```{=html}
+<span class="agenda-label">Illustrative use case</span>
+```
+
+A hospital introduces AI-assisted clinical decision support. Does it improve outcomes for patients, or only perform well on a test dataset? How could researchers assess the difference?
 
 :::
 
-## AI for Governance
+:::
+
+::::
+
+:::::
+
+## AI for Governance {.agenda-pillar .agenda-applied}
 
 Exploring the design and evaluation of AI systems that could improve institutional work, public policy, and human decision-making.
 
-::: {.research-ideas-grid}
+::::: {.agenda-list .agenda-list-applied}
 
-::: {.featured-project .research-idea-card}
-<div class="eyebrow">RESEARCH IDEA · ILLUSTRATIVE</div>
+:::: {.agenda-card}
 
 ### Human-AI decision-making
 
-<div class="application-tags" aria-label="Application areas">
-  <span>Regulatory Oversight</span>
-</div>
+::: {.agenda-columns}
+
+::: {.agenda-question}
+```{=html}
+<span class="agenda-label">Research question</span>
+```
 
 How should people and AI systems work together when institutional decisions have important consequences?
 
-<div class="research-idea-example">
-<strong>Real-world example</strong>
-<p>A regulator uses an AI agent to flag cases for review. How should staff verify its recommendations, correct mistakes, and retain control over final decisions?</p>
+```{=html}
+<div class="agenda-tags" aria-label="Application areas">
+  <span>Regulatory Oversight</span>
 </div>
+```
 :::
 
-::: {.featured-project .research-idea-card}
-<div class="eyebrow">RESEARCH IDEA · ILLUSTRATIVE</div>
+::: {.agenda-example}
+```{=html}
+<span class="agenda-label">Illustrative use case</span>
+```
+
+A regulator uses an AI agent to flag cases for review. How should staff verify its recommendations, correct mistakes, and retain control over final decisions?
+
+:::
+
+:::
+
+::::
+
+:::: {.agenda-card}
 
 ### AI tools for policy and regulatory work
 
-<div class="application-tags" aria-label="Application areas">
-  <span>Public Policy</span>
-</div>
+::: {.agenda-columns}
+
+::: {.agenda-question}
+```{=html}
+<span class="agenda-label">Research question</span>
+```
 
 What kinds of AI tools could help institutions analyze evidence, monitor developments, or improve public-sector processes?
 
-<div class="research-idea-example">
-<strong>Real-world example</strong>
-<p>A policy team needs to examine thousands of consultation submissions. Could an AI tool organize recurring themes and supporting evidence while keeping its findings traceable to the original documents?</p>
+```{=html}
+<div class="agenda-tags" aria-label="Application areas">
+  <span>Public Policy</span>
 </div>
+```
+:::
+
+::: {.agenda-example}
+```{=html}
+<span class="agenda-label">Illustrative use case</span>
+```
+
+A policy team needs to examine thousands of consultation submissions. Could an AI tool organize recurring themes and supporting evidence while keeping its findings traceable to the original documents?
+
 :::
 
 :::
+
+::::
+
+:::::
 
 ## Connecting Research and Implementation
 
