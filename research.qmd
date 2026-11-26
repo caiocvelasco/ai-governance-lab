@@ -101,6 +101,6 @@ A research question may lead to a policy analysis, an empirical evaluation, a pr
 
 The Lab draws on AI, machine learning, statistics, econometrics, causal inference, economics, public policy, decision science, and software engineering. Methods should follow the questions being investigated.
 
-[Explore existing projects and prototypes →](projects.qmd)
+[Explore existing projects →](projects.qmd)
 
 <p class="quiet-note">All use cases are hypothetical examples, not commissioned work or existing deployments. Research topics and possible collaborations remain open to refinement.</p>

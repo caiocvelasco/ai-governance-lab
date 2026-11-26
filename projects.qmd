@@ -4,54 +4,56 @@ title: "Projects"
 
 
 ::: {.page-intro}
-<div class="eyebrow">PROJECTS &amp; PROTOTYPES</div>
+<div class="eyebrow">RESEARCH &amp; APPLIED PROJECTS</div>
 
-# Projects & Prototypes
+# Projects
 
-This page showcases early-stage research and technology concepts developed to explore potential applications of the Lab's two pillars. Each illustrates how ideas can translate into practical research questions, methodologies, or AI-powered solutions.
+The Lab develops research and applied projects across two complementary pillars: **Governance of AI** and **AI for Governance**. Each project is identified by its type, development stage, relevant pillars, and potential application areas.
 
-**These are exploratory concepts, not completed empirical studies, validated methodologies, or deployed products.**
+**Both current projects are at the concept stage**, not completed empirical studies, validated methodologies, or deployed products.
 :::
 
 
 ::: {.featured-project}
-<div class="eyebrow">RESEARCH CONCEPT · EARLY STAGE</div>
+<div class="eyebrow">RESEARCH PROJECT · CONCEPT STAGE</div>
 
-## AI Governance Evidence Lab
+## From AI Claims to Evidence
 
+```{=html}
+<div class="project-tags" aria-label="Related pillars">
+  <span>Governance of AI</span>
+</div>
 <div class="application-tags" aria-label="Potential application areas">
   <span>Employment &amp; Recruitment</span>
 </div>
+```
 
 An independent research concept examining the evidence behind claims about AI systems: what audits and evaluations can establish, what remains uncertain, and how findings could inform oversight decisions.
 
 Its illustrative AI-assisted hiring case is hypothetical. This is a proposed research framework, not a completed evaluation.
 
-<div class="project-tags" aria-label="Related pillars">
-  <span>Governance of AI</span>
-</div>
-
 [Explore the research concept ↗](https://caiocvelasco.github.io/ai-governance-evidence-lab/)
 :::
 
 ::: {.featured-project}
-<div class="eyebrow">TOOL CONCEPT · EARLY STAGE</div>
+<div class="eyebrow">APPLIED PROJECT · CONCEPT STAGE</div>
 
 ## AI Impact Self-Assessment
 
+```{=html}
+<div class="project-tags" aria-label="Related pillars">
+  <span>Governance of AI</span>
+  <span class="pillar-tag-sage">AI for Governance</span>
+</div>
 <div class="application-tags" aria-label="Potential application areas">
   <span>Public Administration</span>
   <span>Regulated Industries</span>
 </div>
+```
 
 A concept for an AI-assisted, human-in-the-loop tool that could help organizations examine societal impacts, assess potential risks, and reflect on the quality of supporting evidence.
 
 It brings together governance and the possible development of an applied AI tool, but is not an operational or validated assessment product.
-
-<div class="project-tags" aria-label="Related pillars">
-  <span>Governance of AI</span>
-  <span>AI for Governance</span>
-</div>
 
 [Explore the tool concept ↗](https://caiocvelasco.github.io/impact-ai-self-assessment-concept/)
 :::
@@ -59,7 +61,7 @@ It brings together governance and the possible development of an applied AI tool
 ::: {.projects-next}
 ### From Ideas to Real-World Applications
 
-Research ideas may evolve into empirical studies, AI prototypes, decision-support tools, or collaborative projects. Some focus on evaluating existing AI systems, while others involve designing and developing new solutions.
+Research ideas may become projects, and concepts may evolve into empirical studies, working prototypes, decision-support tools, or collaborations. Some focus on evaluating existing AI systems, while others involve designing and developing new solutions.
 
 Both approaches are connected by the Lab's commitment to rigorous research, responsible AI, and practical impact.
 

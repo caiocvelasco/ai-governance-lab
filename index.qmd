@@ -11,99 +11,50 @@ page-title: "AI Governance Lab"
 Designing, developing, and rigorously evaluating AI systems to support better decisions, stronger institutions, and evidence-based public policy.
 
 <div class="hero-links">
-  <a class="hero-primary" href="research.qmd">Explore research & ideas</a>
-  <a class="hero-secondary" href="about.qmd">About the Lab →</a>
+  <a class="hero-primary" href="research.qmd">Explore research &amp; ideas</a>
+  <a class="hero-secondary" href="projects.qmd">Explore projects →</a>
 </div>
 :::
 
 <br>
 
-## Two Complementary Pillars
+## Our Approach
 
-We explore **both** how AI should be governed **and** how AI can improve governance.
+Two complementary pillars, one integrated approach, and a portfolio of research and applied projects.
 
-::: {.research-grid .pillar-grid}
+```{=html}
+<section class="lab-framework" aria-label="AI Governance Lab framework">
+  <div class="framework-root"><strong>AI Governance Lab</strong><span>Independent research &amp; technology initiative</span></div>
+  <div class="framework-fork" aria-hidden="true"><i></i></div>
+  <div class="framework-pair">
+    <div class="framework-pillar framework-plum"><small>PILLAR 1</small><h3>Governance of AI</h3><p>How AI should be evaluated, regulated and governed.</p></div>
+    <div class="framework-pillar framework-sage"><small>PILLAR 2</small><h3>AI for Governance</h3><p>How AI can improve governance and public policy.</p></div>
+  </div>
+  <div class="framework-join" aria-hidden="true"><i></i></div>
+  <div class="framework-process"><small>INTEGRATED APPROACH</small><h3>Design → Develop → Evaluate</h3><p>Understand institutional challenges, build AI solutions and assess their real-world impact.</p><p class="framework-note">Projects may focus on one stage or span the full lifecycle.</p></div>
+  <div class="framework-stem" aria-hidden="true"></div>
+  <div class="framework-projects"><h3>Projects</h3><div class="framework-pair"><div class="framework-type"><strong>Research projects</strong><p>Empirical studies, methodologies and evaluations.</p></div><div class="framework-type"><strong>Applied projects</strong><p>AI tools, applications and decision-support systems.</p></div></div><p class="framework-note">Either pillar can include research, applied development, or both.</p></div>
+</section>
+```
 
-::: {.research-card .pillar-card}
-<div class="focus-tag">GOVERNANCE OF AI</div>
-
-**How can we ensure AI systems are effective, safe, accountable, and beneficial?**
-
-Research, risk and impact assessment, evidence-based evaluation, and institutional oversight.
-:::
-
-::: {.research-card .pillar-card}
-<div class="focus-tag focus-tag-sage">AI FOR GOVERNANCE</div>
-
-**How can we design AI systems that improve institutional decisions and public services?**
-
-Human-AI decision support, applied AI systems, GovTech, RegTech, and policy tools.
-:::
-
-:::
-
-::: {.integrated-approach}
-<div class="eyebrow">ONE INTEGRATED APPROACH</div>
-
-### Design → Develop → Evaluate
-
-The two pillars can work together throughout a project's lifecycle: from understanding institutional challenges and developing AI solutions to evaluating their real-world impact. **Projects may cover the full lifecycle or focus on individual stages.** Governance and empirical evidence inform the process from the beginning.
-:::
-
-::: {.lifecycle-grid}
-
-::: {.lifecycle-step}
-<div class="step-number">01</div>
-
-### Design
-
-Understand decisions, user needs, potential benefits, and risks.
-:::
-
-::: {.lifecycle-step}
-<div class="step-number">02</div>
-
-### Develop
-
-Build and integrate AI-enabled tools with human oversight.
-:::
-
-::: {.lifecycle-step}
-<div class="step-number">03</div>
-
-### Evaluate
-
-Examine effectiveness, fairness, uncertainty, and real-world impact.
-:::
-
-:::
-
-::: {.projects-cta}
-<div class="eyebrow">EXPLORE THE LAB</div>
-
-## Research & Projects
-
-Explore the questions we want to investigate and the concepts we have already started developing. Both extend across the Lab's two pillars.
-
-::: {.work-grid}
+::: {.work-grid .framework-links}
 
 ::: {.work-card}
 ### Research & Ideas
 
-Research questions, potential AI applications, and real-world use cases in governance and public policy.
+Research questions and potential applications that may inform future projects.
 
 [Explore research →](research.qmd)
 :::
 
 ::: {.work-card}
-### Projects & Prototypes
+### Projects
 
-Early-stage research concepts and AI tools, including the Lab's two existing prototypes.
+Research and applied projects, from early-stage concepts to studies, prototypes and tools.
 
 [View projects →](projects.qmd)
 :::
 
-:::
 :::
 
 ::: {.europe-section}
