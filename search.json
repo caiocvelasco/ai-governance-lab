@@ -28,6 +28,41 @@
     "text": "Connecting Research and Implementation\nA research question may lead to a policy analysis, an empirical evaluation, a prototype, or a collaboration with another institution. Some projects may involve Design → Develop → Evaluate; others may focus on one stage. Governance considerations and evidence quality matter throughout.\nThe Lab draws on AI, machine learning, statistics, econometrics, causal inference, economics, public policy, decision science, and software engineering. Methods should follow the questions being investigated.\nExplore existing projects →\n\nAll use cases are hypothetical examples, not commissioned work or existing deployments. Research topics and possible collaborations remain open to refinement."
   },
   {
+    "objectID": "projects/impact-self-assessment/index.html",
+    "href": "projects/impact-self-assessment/index.html",
+    "title": "AI Impact Self-Assessment",
+    "section": "",
+    "text": "AI Governance Lab\n    /\n    Projects\n  \n  ← All projects"
+  },
+  {
+    "objectID": "projects/impact-self-assessment/index.html#workflow",
+    "href": "projects/impact-self-assessment/index.html#workflow",
+    "title": "AI Impact Self-Assessment",
+    "section": "An illustrative self-assessment journey",
+    "text": "An illustrative self-assessment journey\n\nAn illustrative organizational user journey, not a replacement for any framework’s formal assessment process. AI could assist with organizing and reviewing information at each stage; users validate its suggestions and retain control of the conclusions.\n\n\n\n\n01SCOPE\n\n\nDescribe your AI system\n\n\nDescribe the deployed system, its users, and its claimed societal or environmental benefits. A human confirms the scope before proceeding.\n\n\nSystem · Users · Intended benefits\n\n\n\n↓\n\n\n\n02EVIDENCE\n\n\nGather supporting evidence\n\n\nUpload documentation and gather stakeholder input. AI could organize sources and suggest missing information; people verify the record.\n\n\nDocumentation · Stakeholders · Evidence\n\n\n\n↓\n\n\n\n03ASSESSMENT\n\n\nAssess its potential impacts\n\n\nUse framework-based questions on impact, governance, human rights, and social, environmental and economic sustainability. AI could help navigate questions; humans assess the evidence.\n\n\nBenefits · Harms · Trade-offs\n\n\n\n↓\n\n\n\n04FINDINGS\n\n\nIdentify risks and evidence gaps\n\n\nAI could flag unsupported claims, inconsistencies and missing perspectives. Reviewers check those flags and identify unresolved harms and trade-offs.\n\n\nUncertainty · Missing evidence · Risks\n\n\n\n↓\n\n\n\n05OUTPUT\n\n\nReceive your assessment summary\n\n\nReview an AI-assisted draft of provisional findings, evidence gaps and next steps. Human approval and possible independent review remain necessary.\n\n\nImpact snapshot · Priorities · External review"
+  },
+  {
+    "objectID": "projects/impact-self-assessment/index.html#what-comes-out-of-it",
+    "href": "projects/impact-self-assessment/index.html#what-comes-out-of-it",
+    "title": "AI Impact Self-Assessment",
+    "section": "What comes out of it?",
+    "text": "What comes out of it?\n\nNot a certificate that an AI system is “good,” but a clearer starting point for responsible decisions.\n\n\n\n\nOUTPUT 01\n\n\nProvisional impact profile\n\n\nA human-reviewed, provisional account of intended benefits, documented effects, possible harms, and open questions.\n\n\n\n\nOUTPUT 02\n\n\nEvidence & perspective gaps\n\n\nPotentially AI-flagged gaps and inconsistencies, linked to sources for human verification.\n\n\n\n\nOUTPUT 03\n\n\nNext-step roadmap\n\n\nSuggested actions for evidence collection, safeguards, stakeholder engagement, and independent evaluation, confirmed by people.\n\n\n\n\n\n↗\n\n\nWhy independent perspectives still matter\nAn organization assessing its own system may overlook harms or overstate benefits. AI-generated suggestions can also be incomplete or misleading. This proposed tool is a preparatory and reflective aid, not a certification or substitute for independent assessment. Human reviewers must check evidence, consider affected stakeholders, and make normative judgments. Rigorous frameworks such as HIIG’s Impact AI Method additionally rely on interviews, qualitative analysis, and external involvement."
+  },
+  {
+    "objectID": "projects/impact-self-assessment/index.html#framework",
+    "href": "projects/impact-self-assessment/index.html#framework",
+    "title": "AI Impact Self-Assessment",
+    "section": "Towards an Integrated AI Impact Assessment Framework",
+    "text": "Towards an Integrated AI Impact Assessment Framework\n\nThe five-step self-assessment above illustrates one component of a broader research agenda. I am interested in developing an AI-assisted platform across three complementary pillars, with human oversight and independent perspectives throughout.\n\n\n\n\nPOTENTIAL RESEARCH PLATFORM\n\n\nAI-assisted impact assessment\n\n\nFramework-informed · Evidence-oriented · Human-in-the-loop\n\n\n\n\n01 · STRUCTURED ASSESSMENT Evidence & stakeholder perspectives Framework-guided review of documentation, interviews, governance, and potential harms (e.g., HIIG’s Impact AI Method). What do we know and how credible is the evidence?\n\n\n02 · QUANTITATIVE Data & causal evaluation Operational and observational data, descriptive statistics, experiments, and causal designs when appropriate. Did deploying the AI system cause a change in outcomes?\n\n\n03 · INSTITUTIONAL Use & accountability Human review, institutional adoption, governance, and decisions informed by findings. Does the assessment improve decisions and accountability?"
+  },
+  {
+    "objectID": "projects/impact-self-assessment/index.html#about",
+    "href": "projects/impact-self-assessment/index.html#about",
+    "title": "AI Impact Self-Assessment",
+    "section": "About me",
+    "text": "About me\n\n\n\n\n\nCaio Velasco · Data Science · Economics & Public Policy\nI am a Brazilian mechanical engineer (UFRJ) with a Master’s in Economics & Public Policy from UCLA (Lemann Foundation scholarship). I have worked internationally in data science, applied econometrics, machine learning, and data engineering, building production data platforms and collaborating with technical and business teams across the US, Europe, and Brazil.\nMy academic path has also been supported by recognition from UCLA, Lemann Foundation, General Electric Foundation, Yale University, and the Club of Rome.\nI am exploring research opportunities at the intersection of AI, societal impact, and evidence-based public policy.\n\n\n\nBACKGROUND & LINKS\n\nLinkedIn ↗\n\nEngineering · Empirical Research · Applied AI\n\n\n\n\nHIIG’s interest in future organizational self-assessment is a welcome coincidence with my interest in AI-assisted tools and applied AI governance.\nThis page presents my own exploratory user journey, developed in connection with an application to the Impact AI Fellowship 2027. It is not a functioning AI assessment system, has not been empirically validated, and has not been commissioned or endorsed by HIIG. No real AI system has been assessed here.\n© 2026 Caio Velasco. Original concept, writing, and design. HIIG’s Impact AI Method remains the work of its respective authors and institutions."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Home",
@@ -70,6 +105,48 @@
     "text": "Get in Touch\nLinkedIn ↗ · Personal Portfolio ↗ · GitHub ↗\n\nThis is an independently developed, early-stage initiative. No institutional affiliation, endorsement, existing partnership, deployed product, or completed study is implied."
   },
   {
+    "objectID": "projects/ai-claims-to-evidence/index.html",
+    "href": "projects/ai-claims-to-evidence/index.html",
+    "title": "From AI Claims to Evidence",
+    "section": "",
+    "text": "AI Governance Lab\n    /\n    Projects\n  \n  ← All projects"
+  },
+  {
+    "objectID": "projects/ai-claims-to-evidence/index.html#case-study",
+    "href": "projects/ai-claims-to-evidence/index.html#case-study",
+    "title": "From AI Claims to Evidence",
+    "section": "Research case study: Can AI make hiring fairer?",
+    "text": "Research case study: Can AI make hiring fairer?\n\nOne possible research direction. AI-assisted recruitment is a useful test case because AI developers (such as companies providing automated CV screening and candidate-ranking tools) may claim that their systems make hiring fairer, while applicants, employers, and regulators need to know whether the evidence supports those claims.\n\n\n\n\nILLUSTRATIVE CLAIM\n\n\n“Our AI system reduces discrimination in hiring.”\n\n\nWhat would we need to know before relying on this claim?\n\n\n\n\n01 · EVIDENCE What was actually measured? Suppose a vendor reports 90% prediction accuracy and a completed bias audit. We would ask: accuracy on which applicants, against which labels, with what subgroup results, and under what testing conditions? A performance score alone does not establish fairer hiring.\n\n\n02 · INFERENCE Does the evidence support the claim? Were error rates and selection outcomes compared across relevant groups? Is the sample representative of actual applicants? To claim the system reduces discrimination, what credible comparison with hiring without the system is available? Association, prediction, and causal impact are different.\n\n\n03 · GOVERNANCE What should decision-makers do? Should an employer request more documentation, commission an independent audit, pilot the tool with safeguards, monitor outcomes, or avoid deployment until the evidence improves? The evidentiary standard should match the decision and stakes.\n\n\n\n\nWhy this matters in practice: Governments are already confronting these questions.\n\nIn the UK, official guidance discusses evidence of bias audits, while the Information Commissioner’s Office has investigated AI recruitment tools.\nIn the US, New York City’s Local Law 144 requires bias audits and public summaries of their results for covered automated employment decision tools.\nMeanwhile, the EU AI Act classifies certain AI systems used in recruitment as high-risk, establishing additional requirements for their providers and deployers.\n\nThese examples raise a common research question: What evidence is sufficient to demonstrate that an AI system is fair, reliable, and suitable for real-world use?\nPotential research output:\n\nA comparative study of publicly documented claims about fairness in AI-assisted recruitment, examining the evidence used to support them, the strength of the conclusions that can be drawn, and the implications for governance.\nThe study could produce a structured evidence matrix and a policy paper identifying gaps in current evaluation practices and recommending ways to improve transparency, accountability, and regulatory oversight."
+  },
+  {
+    "objectID": "projects/ai-claims-to-evidence/index.html#questions",
+    "href": "projects/ai-claims-to-evidence/index.html#questions",
+    "title": "From AI Claims to Evidence",
+    "section": "How the Research Project Approaches the Problem",
+    "text": "How the Research Project Approaches the Problem\n\nThis project is built around three interconnected questions: how to assess the credibility of evidence about AI systems, determine what conclusions it supports, and translate those findings into informed governance decisions.\n\n\n\n\n01EVIDENCE QUALITY\n\n\nWhat makes AI governance evidence credible?\n\n\nHow should decision-makers assess the provenance, independence, limitations, and reproducibility of developer claims, evaluations, audits, and incident reports? Which claims are actually supported?\n\n\nSources · Incentives · Validation · Uncertainty\n\n\n\n↓\n\n\n\n02MEASUREMENT\n\n\nWhat do evaluations tell us about real-world outcomes?\n\n\nUnder what assumptions do benchmark results, pre-deployment tests, monitoring data, and observed incidents generalize to real-world risks or benefits? Where could statistical or causal methods improve inference?\n\n\nExternal validity · Measurement · Causal identification\n\n\n\n↓\n\n\n\n03GOVERNANCE\n\n\nWhen should evidence change a governance decision?\n\n\nWhat evidence thresholds and escalation procedures could inform deployment, monitoring, disclosure, independent evaluation, or regulatory intervention? How should institutions act when uncertainty remains substantial?\n\n\nDecision thresholds · Accountability · Trade-offs"
+  },
+  {
+    "objectID": "projects/ai-claims-to-evidence/index.html#workflow",
+    "href": "projects/ai-claims-to-evidence/index.html#workflow",
+    "title": "From AI Claims to Evidence",
+    "section": "How We Investigate These Questions",
+    "text": "How We Investigate These Questions\n\nThis project combines policy research, comparative case studies, and quantitative analysis to examine how AI-related claims are supported by evidence and how that evidence can inform governance decisions.\n\n\n\n\nMETHOD 01\n\n\nMap evidence requirements\n\n\nCompare public evaluation, assurance, and governance approaches; identify which decisions they support and what information they require.\n\n\n\n\nMETHOD 02\n\n\nAnalyze selected cases\n\n\nTrace claims to underlying evidence in a small, transparent sample; code gaps, uncertainty, incentives, and limitations. Interviews are optional and subject to access.\n\n\n\n\nMETHOD 03\n\n\nTest decision implications\n\n\nDevelop a decision-focused comparison of evidence thresholds or review triggers; use quantitative analysis only where justified by the available evidence.\n\n\n\n\n\n↗\n\n\nResearch integrity and limits\nA model-generated summary is not independent verification. An audit is not necessarily evidence of real-world safety, and an observed association is not necessarily a causal effect. This concept calls for traceable sources, explicit assumptions, consideration of affected parties, and clear separation between empirical findings and normative judgments. No evidence collection, interviews, model evaluations, or empirical validation have been completed for this concept."
+  },
+  {
+    "objectID": "projects/ai-claims-to-evidence/index.html#output",
+    "href": "projects/ai-claims-to-evidence/index.html#output",
+    "title": "From AI Claims to Evidence",
+    "section": "From Research to Policy Recommendations",
+    "text": "From Research to Policy Recommendations\n\n\nEXPECTED CONTRIBUTION\n\n\nCentral question: What evidence should decision-makers require before relying on claims about AI systems?\nThis project aims to translate research into actionable insights for AI governance. An initial contribution could be a comparative study of publicly documented AI evaluation and assurance practices, examining the credibility of supporting evidence, identifying gaps and limitations, and assessing their implications for governance decisions.\nThe research could produce a policy paper or research report, accompanied by a structured evidence matrix that documents the supporting evidence, its limitations, and the conclusions it can reasonably support. Together, these outputs would offer practical recommendations for strengthening transparency, accountability, and regulatory oversight."
+  },
+  {
+    "objectID": "projects/ai-claims-to-evidence/index.html#about",
+    "href": "projects/ai-claims-to-evidence/index.html#about",
+    "title": "From AI Claims to Evidence",
+    "section": "About me",
+    "text": "About me\n\n\n\n\n\nCaio Velasco · Data Science · Economics & Public Policy\nI am a Brazilian mechanical engineer (UFRJ) with a Master’s in Economics & Public Policy from UCLA (Lemann Foundation scholarship). I have worked internationally in data science, applied econometrics, machine learning, and data engineering, building production data platforms and collaborating with technical and business teams across the US, Europe, and Brazil.\nMy academic path has also been supported by recognition from UCLA, Lemann Foundation, General Electric Foundation, Yale University, and the Club of Rome.\nMy research interest: bringing quantitative rigor and a public-policy perspective to questions about AI governance, credible evidence, and institutional decision-making.\n\n\n\nBACKGROUND & LINKS\n\nLinkedIn ↗\n\nEngineering · Empirical Research · Public Policy\n\n\n\n\nThis is an independent, exploratory research concept, not a functioning software system, a completed empirical study, an official assessment, or an endorsed project of any fellowship or research organization. All methods, case studies, and potential deliverables are proposals subject to further research and feasibility assessment.\n© 2026 Caio Velasco. Original concept and writing. Referenced methodologies remain attributable to their respective authors."
+  },
+  {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
@@ -81,13 +158,13 @@
     "href": "projects.html#from-ai-claims-to-evidence",
     "title": "Projects",
     "section": "From AI Claims to Evidence",
-    "text": "From AI Claims to Evidence\n\n  Governance of AI\n\n\n  Employment & Recruitment\n\nAn independent research concept examining the evidence behind claims about AI systems: what audits and evaluations can establish, what remains uncertain, and how findings could inform oversight decisions.\nIts illustrative AI-assisted hiring case is hypothetical. This is a proposed research framework, not a completed evaluation.\nExplore the research concept ↗"
+    "text": "From AI Claims to Evidence\n\n  Governance of AI\n\n\n  Employment & Recruitment\n\nAn independent research concept examining the evidence behind claims about AI systems: what audits and evaluations can establish, what remains uncertain, and how findings could inform oversight decisions.\nIts illustrative AI-assisted hiring case is hypothetical. This is a proposed research framework, not a completed evaluation.\nExplore the research concept →"
   },
   {
     "objectID": "projects.html#ai-impact-self-assessment",
     "href": "projects.html#ai-impact-self-assessment",
     "title": "Projects",
     "section": "AI Impact Self-Assessment",
-    "text": "AI Impact Self-Assessment\n\n  Governance of AI\n  AI for Governance\n\n\n  Public Administration\n  Regulated Industries\n\nA concept for an AI-assisted, human-in-the-loop tool that could help organizations examine societal impacts, assess potential risks, and reflect on the quality of supporting evidence.\nIt brings together governance and the possible development of an applied AI tool, but is not an operational or validated assessment product.\nExplore the tool concept ↗"
+    "text": "AI Impact Self-Assessment\n\n  Governance of AI\n  AI for Governance\n\n\n  Public Administration\n  Regulated Industries\n\nA concept for an AI-assisted, human-in-the-loop tool that could help organizations examine societal impacts, assess potential risks, and reflect on the quality of supporting evidence.\nIt brings together governance and the possible development of an applied AI tool, but is not an operational or validated assessment product.\nExplore the tool concept →"
   }
 ]
