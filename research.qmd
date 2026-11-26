@@ -83,6 +83,40 @@ A hospital introduces AI-assisted clinical decision support. Does it improve out
 
 ::::
 
+:::: {.agenda-card}
+
+### Frontier AI safety and regulatory decisions
+
+::: {.agenda-columns}
+
+::: {.agenda-question}
+```{=html}
+<span class="agenda-label">Research question</span>
+```
+
+How can policymakers interpret frontier AI safety evaluations and their limitations when deciding whether additional safeguards or oversight are warranted?
+
+```{=html}
+<div class="agenda-tags" aria-label="Application areas">
+  <span>Frontier AI</span>
+  <span>Risk &amp; Regulation</span>
+</div>
+```
+:::
+
+::: {.agenda-example}
+```{=html}
+<span class="agenda-label">Illustrative use case</span>
+```
+
+A frontier AI developer reports that its model passed internal safety evaluations. What further evidence would a European authority need to interpret the findings and assess whether additional oversight is justified?
+
+:::
+
+:::
+
+::::
+
 :::::
 
 ## AI for Governance {.agenda-pillar .agenda-applied}

@@ -21,6 +21,8 @@ website:
         href: projects/ai-claims-to-evidence/index.qmd
       - text: AI Impact Self-Assessment
         href: projects/impact-self-assessment/index.qmd
+      - text: Frontier AI Risk Governance
+        href: projects/frontier-ai-risk-governance/index.qmd
     - text: About
       href: about.qmd
   page-footer:
