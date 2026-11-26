@@ -11,7 +11,7 @@
     "href": "research.html#governance-of-ai",
     "title": "Research",
     "section": "Governance of AI",
-    "text": "Governance of AI\nUnderstanding how AI systems should be assessed, governed, and held accountable.\n\n\nAccountability, safety, and oversight\n\n\nResearch question\nHow can institutions evaluate AI systems, identify risks, and remain accountable for AI-assisted decisions?\n\n  Social Welfare\n  Public Administration\n\n\n\nIllustrative use case\nA government agency uses AI to help review applications for social assistance. What safeguards, explanations, and appeal mechanisms should protect people affected by its recommendations?\n\n\n\n\nEvidence and real-world impact\n\n\nResearch question\nHow can we distinguish claims of AI effectiveness from reliable evidence about its actual consequences?\n\n  Healthcare\n\n\n\nIllustrative use case\nA hospital introduces AI-assisted clinical decision support. Does it improve outcomes for patients, or only perform well on a test dataset? How could researchers assess the difference?"
+    "text": "Governance of AI\nUnderstanding how AI systems should be assessed, governed, and held accountable.\n\n\nAccountability, safety, and oversight\n\n\nResearch question\nHow can institutions evaluate AI systems, identify risks, and remain accountable for AI-assisted decisions?\n\n  Social Welfare\n  Public Administration\n\n\n\nIllustrative use case\nA government agency uses AI to help review applications for social assistance. What safeguards, explanations, and appeal mechanisms should protect people affected by its recommendations?\n\n\n\n\nEvidence and real-world impact\n\n\nResearch question\nHow can we distinguish claims of AI effectiveness from reliable evidence about its actual consequences?\n\n  Healthcare\n\n\n\nIllustrative use case\nA hospital introduces AI-assisted clinical decision support. Does it improve outcomes for patients, or only perform well on a test dataset? How could researchers assess the difference?\n\n\n\n\nFrontier AI safety and regulatory decisions\n\n\nResearch question\nHow can policymakers interpret frontier AI safety evaluations and their limitations when deciding whether additional safeguards or oversight are warranted?\n\n  Frontier AI\n  Risk & Regulation\n\n\n\nIllustrative use case\nA frontier AI developer reports that its model passed internal safety evaluations. What further evidence would a European authority need to interpret the findings and assess whether additional oversight is justified?"
   },
   {
     "objectID": "research.html#ai-for-governance",
@@ -63,48 +63,6 @@
     "text": "About me\n\n\n\n\n\nCaio Velasco · Data Science · Economics & Public Policy\nI am a Brazilian mechanical engineer (UFRJ) with a Master’s in Economics & Public Policy from UCLA (Lemann Foundation scholarship). I have worked internationally in data science, applied econometrics, machine learning, and data engineering, building production data platforms and collaborating with technical and business teams across the US, Europe, and Brazil.\nMy academic path has also been supported by recognition from UCLA, Lemann Foundation, General Electric Foundation, Yale University, and the Club of Rome.\nI am exploring research opportunities at the intersection of AI, societal impact, and evidence-based public policy.\n\n\n\nBACKGROUND & LINKS\n\nLinkedIn ↗\n\nEngineering · Empirical Research · Applied AI\n\n\n\n\nHIIG’s interest in future organizational self-assessment is a welcome coincidence with my interest in AI-assisted tools and applied AI governance.\nThis page presents my own exploratory user journey, developed in connection with an application to the Impact AI Fellowship 2027. It is not a functioning AI assessment system, has not been empirically validated, and has not been commissioned or endorsed by HIIG. No real AI system has been assessed here.\n© 2026 Caio Velasco. Original concept, writing, and design. HIIG’s Impact AI Method remains the work of its respective authors and institutions."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Home",
-    "section": "",
-    "text": "INDEPENDENT RESEARCH & TECHNOLOGY LAB\n\n\n\nDesigning, developing, and rigorously evaluating AI systems to support better decisions, stronger institutions, and evidence-based public policy.\n\nExplore research & ideas Explore projects →"
-  },
-  {
-    "objectID": "index.html#our-approach",
-    "href": "index.html#our-approach",
-    "title": "Home",
-    "section": "Our Approach",
-    "text": "Our Approach\nTwo complementary pillars, one integrated approach, and a portfolio of research and applied projects.\n\n  AI Governance LabIndependent research & technology initiative\n  \n  \n    PILLAR 1Governance of AIHow AI should be evaluated, regulated and governed.\n    PILLAR 2AI for GovernanceHow AI can improve governance and public policy.\n  \n  \n  INTEGRATED APPROACHDesign → Develop → EvaluateUnderstand institutional challenges, build AI solutions and assess their real-world impact.Projects may focus on one stage or span the full lifecycle.\n  \n  ProjectsResearch projectsEmpirical studies, methodologies and evaluations.Applied projectsAI tools, applications and decision-support systems.Either pillar can include research, applied development, or both.\n\n\n\nResearch & Ideas\nResearch questions and potential applications that may inform future projects.\nExplore research →\n\n\nProjects\nResearch and applied projects, from early-stage concepts to studies, prototypes and tools.\nView projects →\n\n\n\n\nEUROPEAN RESEARCH & COLLABORATION\n\n\nAligned with Europe’s Research Priorities\nThe Lab’s interests intersect with European-funded research and initiatives in adaptive regulation, human-AI collaboration, AI-supported policymaking, and AI-enabled science.\n\n\n\nMSCA DOCTORAL NETWORK\n\n\nREGULAIRE ↗\nHow can regulation adapt and learn as technologies evolve?\n\n\n\n\nMSCA DOCTORAL NETWORK\n\n\nEMANAIRE ↗\nHow does AI change human agency, work, and decisions?\n\n\n\n\nHORIZON EUROPE PROJECT\n\n\nAI4POL ↗\nHow can AI help regulators and policymakers govern technology?\n\n\n\n\nEUROPEAN AI IN SCIENCE INITIATIVE\n\n\nRAISE ↗\nHow can AI accelerate research and scientific discovery?\n\n\n\nThe Lab is open to discussing joint research proposals, collaborative evaluations, and applied AI projects with academic and institutional partners.\n\nThese are independent initiatives illustrating thematic alignment, not Lab affiliations, awarded grants, or endorsements.\n\n\n\n\nAI Governance Lab is an independent initiative in its early stages. Its pillars describe intended areas of work, not completed studies, deployed products, or established institutional partnerships."
-  },
-  {
-    "objectID": "index.html#aligned-with-europes-research-priorities",
-    "href": "index.html#aligned-with-europes-research-priorities",
-    "title": "Home",
-    "section": "Aligned with Europe’s Research Priorities",
-    "text": "Aligned with Europe’s Research Priorities\nThe Lab’s interests intersect with European-funded research and initiatives in adaptive regulation, human-AI collaboration, AI-supported policymaking, and AI-enabled science.\n\n\n\nMSCA DOCTORAL NETWORK\n\n\nREGULAIRE ↗\nHow can regulation adapt and learn as technologies evolve?\n\n\n\n\nMSCA DOCTORAL NETWORK\n\n\nEMANAIRE ↗\nHow does AI change human agency, work, and decisions?\n\n\n\n\nHORIZON EUROPE PROJECT\n\n\nAI4POL ↗\nHow can AI help regulators and policymakers govern technology?\n\n\n\n\nEUROPEAN AI IN SCIENCE INITIATIVE\n\n\nRAISE ↗\nHow can AI accelerate research and scientific discovery?\n\n\n\nThe Lab is open to discussing joint research proposals, collaborative evaluations, and applied AI projects with academic and institutional partners.\n\nThese are independent initiatives illustrating thematic alignment, not Lab affiliations, awarded grants, or endorsements."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "ABOUT\n\n\n\nAI Governance Lab is an independent, early-stage research and technology initiative working at the intersection of artificial intelligence, human decision-making, governance, and public policy.\nIts mission is to advance governance and public policy through the design, development, and rigorous evaluation of AI systems. The Lab aims to connect empirical research with practical technology, without separating the building of AI systems from examining their benefits, risks, and real-world effects."
-  },
-  {
-    "objectID": "about.html#research-collaboration",
-    "href": "about.html#research-collaboration",
-    "title": "About",
-    "section": "Research & Collaboration",
-    "text": "Research & Collaboration\nThe Lab is open to conversations about independent research, academic collaborations, and carefully scoped applied AI projects with public institutions, researchers, policy organizations, and organizations in regulated sectors."
-  },
-  {
-    "objectID": "about.html#get-in-touch",
-    "href": "about.html#get-in-touch",
-    "title": "About",
-    "section": "Get in Touch",
-    "text": "Get in Touch\nLinkedIn ↗ · Personal Portfolio ↗ · GitHub ↗\n\nThis is an independently developed, early-stage initiative. No institutional affiliation, endorsement, existing partnership, deployed product, or completed study is implied."
-  },
-  {
     "objectID": "projects/ai-claims-to-evidence/index.html",
     "href": "projects/ai-claims-to-evidence/index.html",
     "title": "From AI Claims to Evidence",
@@ -147,11 +105,102 @@
     "text": "About me\n\n\n\n\n\nCaio Velasco · Data Science · Economics & Public Policy\nI am a Brazilian mechanical engineer (UFRJ) with a Master’s in Economics & Public Policy from UCLA (Lemann Foundation scholarship). I have worked internationally in data science, applied econometrics, machine learning, and data engineering, building production data platforms and collaborating with technical and business teams across the US, Europe, and Brazil.\nMy academic path has also been supported by recognition from UCLA, Lemann Foundation, General Electric Foundation, Yale University, and the Club of Rome.\nMy research interest: bringing quantitative rigor and a public-policy perspective to questions about AI governance, credible evidence, and institutional decision-making.\n\n\n\nBACKGROUND & LINKS\n\nLinkedIn ↗\n\nEngineering · Empirical Research · Public Policy\n\n\n\n\nThis is an independent, exploratory research concept, not a functioning software system, a completed empirical study, an official assessment, or an endorsed project of any fellowship or research organization. All methods, case studies, and potential deliverables are proposals subject to further research and feasibility assessment.\n© 2026 Caio Velasco. Original concept and writing. Referenced methodologies remain attributable to their respective authors."
   },
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "ABOUT\n\n\n\nAI Governance Lab is an independent, early-stage research and technology initiative working at the intersection of artificial intelligence, human decision-making, governance, and public policy.\nIts mission is to advance governance and public policy through the design, development, and rigorous evaluation of AI systems. The Lab aims to connect empirical research with practical technology, without separating the building of AI systems from examining their benefits, risks, and real-world effects."
+  },
+  {
+    "objectID": "about.html#research-collaboration",
+    "href": "about.html#research-collaboration",
+    "title": "About",
+    "section": "Research & Collaboration",
+    "text": "Research & Collaboration\nThe Lab is open to conversations about independent research, academic collaborations, and carefully scoped applied AI projects with public institutions, researchers, policy organizations, and organizations in regulated sectors."
+  },
+  {
+    "objectID": "about.html#get-in-touch",
+    "href": "about.html#get-in-touch",
+    "title": "About",
+    "section": "Get in Touch",
+    "text": "Get in Touch\nLinkedIn ↗ · Personal Portfolio ↗ · GitHub ↗\n\nThis is an independently developed, early-stage initiative. No institutional affiliation, endorsement, existing partnership, deployed product, or completed study is implied."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "INDEPENDENT RESEARCH & TECHNOLOGY LAB\n\n\n\nDesigning, developing, and rigorously evaluating AI systems to support better decisions, stronger institutions, and evidence-based public policy.\n\nExplore research & ideas Explore projects →"
+  },
+  {
+    "objectID": "index.html#our-approach",
+    "href": "index.html#our-approach",
+    "title": "Home",
+    "section": "Our Approach",
+    "text": "Our Approach\nTwo complementary pillars, one integrated approach, and a portfolio of research and applied projects.\n\n  AI Governance LabIndependent research & technology initiative\n  \n  \n    PILLAR 1Governance of AIHow AI should be evaluated, regulated and governed.\n    PILLAR 2AI for GovernanceHow AI can improve governance and public policy.\n  \n  \n  INTEGRATED APPROACHDesign → Develop → EvaluateUnderstand institutional challenges, build AI solutions and assess their real-world impact.Projects may focus on one stage or span the full lifecycle.\n  \n  ProjectsResearch projectsEmpirical studies, methodologies and evaluations.Applied projectsAI tools, applications and decision-support systems.Either pillar can include research, applied development, or both.\n\n\n\nResearch & Ideas\nResearch questions and potential applications that may inform future projects.\nExplore research →\n\n\nProjects\nResearch and applied projects, from early-stage concepts to studies, prototypes and tools.\nView projects →\n\n\n\n\nEUROPEAN RESEARCH & COLLABORATION\n\n\nAligned with Europe’s Research Priorities\nThe Lab’s interests intersect with European-funded research and initiatives in adaptive regulation, human-AI collaboration, AI-supported policymaking, and AI-enabled science.\n\n\n\nMSCA DOCTORAL NETWORK\n\n\nREGULAIRE ↗\nHow can regulation adapt and learn as technologies evolve?\n\n\n\n\nMSCA DOCTORAL NETWORK\n\n\nEMANAIRE ↗\nHow does AI change human agency, work, and decisions?\n\n\n\n\nHORIZON EUROPE PROJECT\n\n\nAI4POL ↗\nHow can AI help regulators and policymakers govern technology?\n\n\n\n\nEUROPEAN AI IN SCIENCE INITIATIVE\n\n\nRAISE ↗\nHow can AI accelerate research and scientific discovery?\n\n\n\nThe Lab is open to discussing joint research proposals, collaborative evaluations, and applied AI projects with academic and institutional partners.\n\nThese are independent initiatives illustrating thematic alignment, not Lab affiliations, awarded grants, or endorsements.\n\n\n\n\nAI Governance Lab is an independent initiative in its early stages. Its pillars describe intended areas of work, not completed studies, deployed products, or established institutional partnerships."
+  },
+  {
+    "objectID": "index.html#aligned-with-europes-research-priorities",
+    "href": "index.html#aligned-with-europes-research-priorities",
+    "title": "Home",
+    "section": "Aligned with Europe’s Research Priorities",
+    "text": "Aligned with Europe’s Research Priorities\nThe Lab’s interests intersect with European-funded research and initiatives in adaptive regulation, human-AI collaboration, AI-supported policymaking, and AI-enabled science.\n\n\n\nMSCA DOCTORAL NETWORK\n\n\nREGULAIRE ↗\nHow can regulation adapt and learn as technologies evolve?\n\n\n\n\nMSCA DOCTORAL NETWORK\n\n\nEMANAIRE ↗\nHow does AI change human agency, work, and decisions?\n\n\n\n\nHORIZON EUROPE PROJECT\n\n\nAI4POL ↗\nHow can AI help regulators and policymakers govern technology?\n\n\n\n\nEUROPEAN AI IN SCIENCE INITIATIVE\n\n\nRAISE ↗\nHow can AI accelerate research and scientific discovery?\n\n\n\nThe Lab is open to discussing joint research proposals, collaborative evaluations, and applied AI projects with academic and institutional partners.\n\nThese are independent initiatives illustrating thematic alignment, not Lab affiliations, awarded grants, or endorsements."
+  },
+  {
+    "objectID": "projects/frontier-ai-risk-governance/index.html",
+    "href": "projects/frontier-ai-risk-governance/index.html",
+    "title": "Frontier AI Risk Governance",
+    "section": "",
+    "text": "Governance of AI\n  Frontier AI\n  Risk & Regulation"
+  },
+  {
+    "objectID": "projects/frontier-ai-risk-governance/index.html#case-study",
+    "href": "projects/frontier-ai-risk-governance/index.html#case-study",
+    "title": "Frontier AI Risk Governance",
+    "section": "Policy case: Evaluating dangerous cyber capabilities",
+    "text": "Policy case: Evaluating dangerous cyber capabilities\n\nHypothetical illustration, not a real model assessment. Consider a frontier model whose developer reports that it passed internal safety evaluations relating to potentially dangerous cyber capabilities. How useful is that statement to an authority considering systemic risks?\n\n\n\n\nILLUSTRATIVE CLAIM\n\n\n“Our frontier AI model passed its safety evaluations.”\n\n\nWhat would an EU decision-maker need to know before relying on that claim?\n\n\n\n\n01 · EVIDENCE What was actually tested? Which cyber-related capabilities were evaluated? Were tests adversarial and independently scrutinized? What tasks, access, safeguards, and model versions were covered? What failures or limits were disclosed? “Passed” is not meaningful without a documented scope and criteria.\n\n\n02 · INFERENCE What can we conclude? How closely do test conditions resemble plausible misuse or deployment scenarios? Could access to tools, user adaptation, or later model changes alter the risk? Which uncertainties remain? Capability findings do not directly quantify real-world likelihood or harm.\n\n\n03 · POLICY What action is justified? Depending on the evidence, should the relevant authority seek further documentation, examine mitigation measures, request additional evaluation, or consider other oversight steps within its legal powers? Responses should reflect risk, uncertainty, proportionality, and legal authority.\n\n\n\n\nWhy this matters in Europe:\n\nThe EU AI Act, Article 55, already requires providers of general-purpose AI models with systemic risk to evaluate their models, assess and mitigate risks, report serious incidents, and ensure appropriate cybersecurity protection.\n\nBut an important question remains: How can evidence from AI safety evaluations better support the implementation and supervision of these requirements?\nPotential policy output:\n\nA short policy brief examining what current safety evaluations reveal, what information may be missing, and how European policymakers could use this evidence to improve oversight."
+  },
+  {
+    "objectID": "projects/frontier-ai-risk-governance/index.html#questions",
+    "href": "projects/frontier-ai-risk-governance/index.html#questions",
+    "title": "Frontier AI Risk Governance",
+    "section": "A framework for policy-relevant evidence",
+    "text": "A framework for policy-relevant evidence\n\nThree questions connect AI safety evidence to accountable European governance. The framework is deliberately decision-oriented rather than a comprehensive technical evaluation methodology.\n\n\n\n\n01EVIDENCE QUALITY\n\n\nCan we assess the evaluation claim?\n\n\nExamine test scope, methods, provenance, independence, disclosed limitations, and whether a claim is supported by the underlying evidence.\n\n\nScope · Transparency · Independence · Reproducibility\n\n\n\n↓\n\n\n\n02RISK INTERPRETATION\n\n\nWhat does the result imply about risk?\n\n\nDistinguish measured capabilities from misuse scenarios and broader systemic risk. Consider external validity, uncertainty, protective measures, and missing information.\n\n\nCapability vs. risk · Generalizability · Uncertainty\n\n\n\n↓\n\n\n\n03POLICY RESPONSE\n\n\nWhat should authorities consider doing?\n\n\nIdentify feasible reporting improvements, review questions, and possible follow-up measures, distinguishing existing legal requirements from new policy proposals.\n\n\nInstitutional authority · Proportionality · Accountability"
+  },
+  {
+    "objectID": "projects/frontier-ai-risk-governance/index.html#workflow",
+    "href": "projects/frontier-ai-risk-governance/index.html#workflow",
+    "title": "Frontier AI Risk Governance",
+    "section": "Proposed approach",
+    "text": "Proposed approach\n\nA bounded desk-based policy project using public sources. Any empirical comparison would depend on available, sufficiently comparable material.\n\n\n\n\nSTEP 01\n\n\nMap existing duties\n\n\nSummarize relevant EU requirements and guidance for general-purpose AI models with systemic risk, focusing on evaluation, risk management, and oversight.\n\n\n\n\nSTEP 02\n\n\nReview public evidence\n\n\nCompare a small, clearly selected set of public safety evaluation documents. Record what is reported, what remains unknown, and which claims can be supported.\n\n\n\n\nSTEP 03\n\n\nDevelop policy options\n\n\nIdentify practical improvements to decision-relevant reporting or scrutiny; distinguish feasible proposals from legal duties and note trade-offs.\n\n\n\n\n\n↗\n\n\nScope and research integrity\nThis is a proposed policy exercise. No model testing, independent audit, interviews, original data collection, or empirical validation has been completed. A cyber-capability test does not by itself establish the probability of harm. Examples are hypothetical; recommendations would require source review and attention to confidentiality, legal powers, and institutional feasibility."
+  },
+  {
+    "objectID": "projects/frontier-ai-risk-governance/index.html#output",
+    "href": "projects/frontier-ai-risk-governance/index.html#output",
+    "title": "Frontier AI Risk Governance",
+    "section": "Potential Policy Contribution: a European policy brief",
+    "text": "Potential Policy Contribution: a European policy brief\n\n\nPROPOSED DELIVERABLE\n\n\nWorking title: Making Frontier AI Safety Evaluations Decision-Useful for European Policymakers\nA concise policy brief would examine how public reporting on frontier AI evaluations can better support oversight of models with potential systemic risks. It would explain a specific evidence-to-decision gap, assess relevant European institutional and legal context, and propose a limited number of actionable improvements-with trade-offs and uncertainties made explicit.\nA small evidence matrix could support the brief by tracing each documented claim to its source, limitations, and policy relevance. The brief - not a software platform or a completed research study - would be the principal proposed output."
+  },
+  {
+    "objectID": "projects/frontier-ai-risk-governance/index.html#references",
+    "href": "projects/frontier-ai-risk-governance/index.html#references",
+    "title": "Frontier AI Risk Governance",
+    "section": "Starting references",
+    "text": "Starting references\n\nEU AI Act - Article 55: additional obligations for GPAI models with systemic risk\nEuropean Commission - When is a general-purpose AI model one with systemic risk?\nEU AI Act - consolidated legal text (EUR-Lex)\nTalos Network - Talos Fellowship (programme context; no institutional association)\n\nThese are starting points, not a claim of exhaustive legal or empirical review."
+  },
+  {
+    "objectID": "projects/frontier-ai-risk-governance/index.html#about",
+    "href": "projects/frontier-ai-risk-governance/index.html#about",
+    "title": "Frontier AI Risk Governance",
+    "section": "About me",
+    "text": "About me\n\n\n\n\n\nCaio Velasco · Data Science · Economics & Public Policy\nI am a Brazilian and Spanish citizen with a degree in Mechanical Engineering from UFRJ and a Master of Public Policy from UCLA (Lemann Foundation scholar). I have international experience in data science, applied econometrics, and machine learning, combining quantitative analysis with communicating technical findings to non-technical audiences.\nMy academic and professional journey has included scholarships, awards, and opportunities associated with UCLA, the Lemann Foundation, the General Electric Foundation, Yale University, and the Club of Rome.\nMy policy interest: Applying my technical and public policy background to frontier AI safety and European governance, particularly how institutions evaluate evidence and make decisions under uncertainty. This project reflects my interest in pursuing a long-term career in AI policy.\n\n\n\nBACKGROUND & LINKS\n\nLinkedIn ↗\n\nQuantitative Analysis · Public Policy · European AI Governance\n\n\n\n\nIndependent, exploratory policy concept by Caio Velasco. Not a functioning assessment tool, completed study, legal opinion, or official evaluation. Not affiliated with, endorsed by, or submitted on behalf of Talos Network, the EU AI Office, or any other institution. Proposed methods and outputs remain subject to refinement.\n© 2026 Caio Velasco."
+  },
+  {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "RESEARCH & APPLIED PROJECTS\n\n\nThe Lab develops research and applied projects across two complementary pillars: Governance of AI and AI for Governance. Each project is identified by its type, development stage, relevant pillars, and potential application areas.\nBoth current projects are at the concept stage, not completed empirical studies, validated methodologies, or deployed products.\nNew research, collaborations, and applied AI projects will be added here as substantive work develops."
+    "text": "RESEARCH & APPLIED PROJECTS\n\n\nThe Lab develops research and applied projects across two complementary pillars: Governance of AI and AI for Governance. Each project is identified by its type, development stage, relevant pillars, and potential application areas.\nAll current projects are at the concept stage, not completed empirical studies, validated methodologies, or deployed products.\nNew research, collaborations, and applied AI projects will be added here as substantive work develops."
   },
   {
     "objectID": "projects.html#from-ai-claims-to-evidence",
@@ -166,5 +215,12 @@
     "title": "Projects",
     "section": "AI Impact Self-Assessment",
     "text": "AI Impact Self-Assessment\n\n  Governance of AI\n  AI for Governance\n\n\n  Public Administration\n  Regulated Industries\n\nA concept for an AI-assisted, human-in-the-loop tool that could help organizations examine societal impacts, assess potential risks, and reflect on the quality of supporting evidence.\nIt brings together governance and the possible development of an applied AI tool, but is not an operational or validated assessment product.\nExplore the tool concept →"
+  },
+  {
+    "objectID": "projects.html#frontier-ai-risk-governance",
+    "href": "projects.html#frontier-ai-risk-governance",
+    "title": "Projects",
+    "section": "Frontier AI Risk Governance",
+    "text": "Frontier AI Risk Governance\n\n  Governance of AI\n\n\n  Frontier AI\n  Risk & Regulation\n\nA policy research concept examining how European policymakers could interpret frontier AI safety evaluations, account for uncertainty, and use evaluation evidence to inform oversight and safeguards.\nThe proposed output is a policy brief supported by an evidence matrix, not a completed study or actual model evaluation.\nExplore the policy research concept →"
   }
 ]

@@ -2,26 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://aigovernancelab.org/research.html</loc>
-    <lastmod>2026-11-26T01:36:56.523Z</lastmod>
+    <lastmod>2026-11-26T17:51:06.639Z</lastmod>
   </url>
   <url>
     <loc>https://aigovernancelab.org/projects/impact-self-assessment/index.html</loc>
     <lastmod>2026-11-26T01:24:07.631Z</lastmod>
   </url>
   <url>
-    <loc>https://aigovernancelab.org/index.html</loc>
-    <lastmod>2026-11-26T01:05:58.767Z</lastmod>
+    <loc>https://aigovernancelab.org/projects/ai-claims-to-evidence/index.html</loc>
+    <lastmod>2026-11-26T01:24:07.596Z</lastmod>
   </url>
   <url>
     <loc>https://aigovernancelab.org/about.html</loc>
     <lastmod>2026-11-26T01:05:58.761Z</lastmod>
   </url>
   <url>
-    <loc>https://aigovernancelab.org/projects/ai-claims-to-evidence/index.html</loc>
-    <lastmod>2026-11-26T01:24:07.596Z</lastmod>
+    <loc>https://aigovernancelab.org/index.html</loc>
+    <lastmod>2026-11-26T01:05:58.767Z</lastmod>
+  </url>
+  <url>
+    <loc>https://aigovernancelab.org/projects/frontier-ai-risk-governance/index.html</loc>
+    <lastmod>2026-11-26T17:51:06.677Z</lastmod>
   </url>
   <url>
     <loc>https://aigovernancelab.org/projects.html</loc>
-    <lastmod>2026-11-26T01:26:35.481Z</lastmod>
+    <lastmod>2026-11-26T17:51:06.630Z</lastmod>
   </url>
 </urlset>
