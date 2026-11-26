@@ -1,0 +1,214 @@
+---
+title: "From AI Claims to Evidence"
+subtitle: "From AI claims to evidence-informed governance decisions"
+navbar: false
+sidebar: false
+css: styles.css
+grid:
+  body-width: 1080px
+---
+
+```{=html}
+<nav class="lab-project-bar" aria-label="AI Governance Lab project navigation">
+  <div class="lab-project-brand">
+    <a href="../../index.html" target="_self">AI Governance Lab</a>
+    <span class="lab-project-separator" aria-hidden="true">/</span>
+    <span class="lab-project-category">Projects</span>
+  </div>
+  <a class="lab-project-back" href="../../projects.html" target="_self"><span aria-hidden="true">←</span> All projects</a>
+</nav>
+<div class="lab-project-tags" aria-label="Project classification">
+  <span class="pillar-tag">Governance of AI</span>
+  <span class="application-tag">Employment &amp; Recruitment</span>
+</div>
+<div class="eyebrow lab-project-stage">RESEARCH PROJECT · CONCEPT STAGE · NOVEMBER 2026</div>
+```
+
+::: {.hero}
+::: {.hero-content}
+# From AI Claims to Evidence
+
+**How can we tell whether claims about AI systems are credible enough to inform governance decisions?**
+
+AI developers and deployers make claims about safety, fairness, and social benefits. This project explores **what evidence supports those claims, what conclusions can reasonably be drawn, and what decision-makers should do when important uncertainties remain.**
+
+<div class="hero-links">
+<a class="button-main" href="#case-study">See a concrete example <span aria-hidden="true">↘</span></a>
+<a class="text-link" href="#questions">See the research framework <span aria-hidden="true">↗</span></a>
+</div>
+:::
+::: {.hero-decoration aria-hidden="true"}
+<div class="orbit orbit-one"></div>
+<div class="orbit orbit-two"></div>
+<div class="orbit orbit-three"></div>
+<div class="orbit-core">?</div>
+:::
+:::
+
+::: {.intro-grid}
+::: {.intro-label}
+### THE PURPOSE
+:::
+::: {.intro-copy}
+_A claim is not the same as evidence, and evidence is not the same as proof._
+
+This project is an early-stage **research framework for tracing AI-related claims to supporting information** - such as evaluation results, audit reports, documentation, or observed outcomes - and asking what that information actually establishes. The intended contribution is a transparent way to analyze evidence quality and its implications for oversight, not a new tool that automatically certifies AI systems.
+:::
+:::
+
+## Research case study: Can AI make hiring fairer? {#case-study}
+
+::: {.section-subtitle}
+**One possible research direction.** AI-assisted recruitment is a useful test case because AI developers (such as companies providing automated CV screening and candidate-ranking tools) may claim that their systems make hiring fairer, while applicants, employers, and regulators need to know whether the evidence supports those claims.
+:::
+
+::: {.platform-panel}
+<div class="platform-head">
+  <div class="platform-eyebrow">ILLUSTRATIVE CLAIM</div>
+  <h3>“Our AI system reduces discrimination in hiring.”</h3>
+  <p>What would we need to know before relying on this claim?</p>
+</div>
+<div class="platform-branches" aria-label="Hiring AI evidence example">
+  <div class="platform-branch">
+<span class="branch-number">01 · EVIDENCE</span>
+<strong>What was actually measured?</strong>
+<span>Suppose a vendor reports 90% prediction accuracy and a completed bias audit. We would ask: accuracy on which applicants, against which labels, with what subgroup results, and under what testing conditions?</span>
+<em>A performance score alone does not establish fairer hiring.</em>
+  </div>
+  <div class="platform-branch">
+<span class="branch-number">02 · INFERENCE</span>
+<strong>Does the evidence support the claim?</strong>
+<span>Were error rates and selection outcomes compared across relevant groups? Is the sample representative of actual applicants? To claim the system <i>reduces</i> discrimination, what credible comparison with hiring without the system is available?</span>
+<em>Association, prediction, and causal impact are different.</em>
+  </div>
+  <div class="platform-branch">
+<span class="branch-number">03 · GOVERNANCE</span>
+<strong>What should decision-makers do?</strong>
+<span>Should an employer request more documentation, commission an independent audit, pilot the tool with safeguards, monitor outcomes, or avoid deployment until the evidence improves?</span>
+<em>The evidentiary standard should match the decision and stakes.</em>
+  </div>
+</div>
+:::
+
+<br>
+
+**Why this matters in practice:** Governments are already confronting these questions.
+
+- In the UK, [official guidance](https://www.gov.uk/government/publications/responsible-ai-in-recruitment-guide/responsible-ai-in-recruitment) discusses evidence of bias audits, while the [Information Commissioner's Office](https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2024/11/ico-intervention-into-ai-recruitment-tools-leads-to-better-data-protection-for-job-seekers/) has investigated AI recruitment tools.
+
+- In the US, [New York City's Local Law 144](https://www.nyc.gov/site/dca/about/automated-employment-decision-tools.page) requires bias audits and public summaries of their results for covered automated employment decision tools. 
+
+- Meanwhile, the [EU AI Act](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai) classifies certain AI systems used in recruitment as high-risk, establishing additional requirements for their providers and deployers. 
+
+These examples raise a common research question: **What evidence is sufficient to demonstrate that an AI system is fair, reliable, and suitable for real-world use?**
+
+**Potential research output:** 
+
+- A comparative study of publicly documented claims about fairness in AI-assisted recruitment, examining the evidence used to support them, the strength of the conclusions that can be drawn, and the implications for governance.
+
+- The study could produce a structured evidence matrix and a policy paper identifying gaps in current evaluation practices and recommending ways to improve transparency, accountability, and regulatory oversight.
+
+## How the Research Project Approaches the Problem {#questions}
+
+::: {.section-subtitle}
+This project is built around three interconnected questions: how to assess the credibility of evidence about AI systems, determine what conclusions it supports, and translate those findings into informed governance decisions.
+:::
+
+::: {.workflow aria-label="Three research questions and a proposed research process"}
+::: {.step}
+<div class="step-top"><span class="step-number">01</span><span class="step-tag">EVIDENCE QUALITY</span></div>
+<h3>What makes AI governance evidence credible?</h3>
+<p>How should decision-makers assess the provenance, independence, limitations, and reproducibility of developer claims, evaluations, audits, and incident reports? Which claims are actually supported?</p>
+<div class="step-prompt">Sources · Incentives · Validation · Uncertainty</div>
+:::
+<div class="connector" aria-hidden="true">↓</div>
+::: {.step}
+<div class="step-top"><span class="step-number">02</span><span class="step-tag">MEASUREMENT</span></div>
+<h3>What do evaluations tell us about real-world outcomes?</h3>
+<p>Under what assumptions do benchmark results, pre-deployment tests, monitoring data, and observed incidents generalize to real-world risks or benefits? Where could statistical or causal methods improve inference?</p>
+<div class="step-prompt">External validity · Measurement · Causal identification</div>
+:::
+<div class="connector" aria-hidden="true">↓</div>
+::: {.step .step-final}
+<div class="step-top"><span class="step-number">03</span><span class="step-tag">GOVERNANCE</span></div>
+<h3>When should evidence change a governance decision?</h3>
+<p>What evidence thresholds and escalation procedures could inform deployment, monitoring, disclosure, independent evaluation, or regulatory intervention? How should institutions act when uncertainty remains substantial?</p>
+<div class="step-prompt">Decision thresholds · Accountability · Trade-offs</div>
+:::
+:::
+
+## How We Investigate These Questions {#workflow}
+
+::: {.section-subtitle}
+This project combines policy research, comparative case studies, and quantitative analysis to examine how AI-related claims are supported by evidence and how that evidence can inform governance decisions.
+:::
+
+::: {.output-grid}
+::: {.output-card}
+<div class="output-index">METHOD 01</div>
+<h3>Map evidence requirements</h3>
+<p>Compare public evaluation, assurance, and governance approaches; identify which decisions they support and what information they require.</p>
+:::
+::: {.output-card}
+<div class="output-index">METHOD 02</div>
+<h3>Analyze selected cases</h3>
+<p>Trace claims to underlying evidence in a small, transparent sample; code gaps, uncertainty, incentives, and limitations. Interviews are optional and subject to access.</p>
+:::
+::: {.output-card}
+<div class="output-index">METHOD 03</div>
+<h3>Test decision implications</h3>
+<p>Develop a decision-focused comparison of evidence thresholds or review triggers; use quantitative analysis only where justified by the available evidence.</p>
+:::
+:::
+
+::: {.integrity-note}
+<div class="note-symbol" aria-hidden="true">↗</div>
+<div>
+<strong>Research integrity and limits</strong>
+
+A model-generated summary is not independent verification. An audit is not necessarily evidence of real-world safety, and an observed association is not necessarily a causal effect. This concept calls for traceable sources, explicit assumptions, consideration of affected parties, and clear separation between empirical findings and normative judgments. No evidence collection, interviews, model evaluations, or empirical validation have been completed for this concept.
+</div>
+:::
+
+## From Research to Policy Recommendations {#output}
+
+::: {.intro-grid}
+::: {.intro-label}
+### EXPECTED CONTRIBUTION
+:::
+::: {.intro-copy}
+**Central question:** *What evidence should decision-makers require before relying on claims about AI systems?*
+
+This project aims to translate research into actionable insights for AI governance. An initial contribution could be a comparative study of publicly documented AI evaluation and assurance practices, examining the credibility of supporting evidence, identifying gaps and limitations, and assessing their implications for governance decisions.
+
+The research could produce a **policy paper or research report**, accompanied by a **structured evidence matrix** that documents the supporting evidence, its limitations, and the conclusions it can reasonably support. Together, these outputs would offer practical recommendations for strengthening transparency, accountability, and regulatory oversight.
+:::
+:::
+
+## About me {#about}
+
+::: {.about-panel}
+::: {.about-portrait}
+<img src="../../images/caio_ucla.JPG" alt="Portrait of Caio Velasco" class="about-photo">
+:::
+::: {.about-main}
+**[Caio Velasco](https://caiocvelasco.github.io/)** · Data Science · Economics & Public Policy
+
+I am a Brazilian mechanical engineer (UFRJ) with a Master's in Economics & Public Policy from UCLA (Lemann Foundation scholarship). I have worked internationally in data science, applied econometrics, machine learning, and data engineering, building production data platforms and collaborating with technical and business teams across the US, Europe, and Brazil. 
+
+My academic path has also been supported by recognition from _UCLA_, _Lemann Foundation_, _General Electric Foundation_, _Yale University_, and the _Club of Rome_.
+
+**My research interest:** bringing quantitative rigor and a public-policy perspective to questions about **AI governance, credible evidence, and institutional decision-making**.
+:::
+::: {.about-aside}
+<div class="about-small-heading">BACKGROUND & LINKS</div>
+<a href="https://www.linkedin.com/in/caiovelasco/" target="_blank" rel="noopener noreferrer">LinkedIn ↗</a>
+<div class="about-aside-note">Engineering · Empirical Research · Public Policy</div>
+:::
+:::
+
+::: {.disclaimer}
+This is an independent, exploratory research concept, not a functioning software system, a completed empirical study, an official assessment, or an endorsed project of any fellowship or research organization. All methods, case studies, and potential deliverables are proposals subject to further research and feasibility assessment.
+
+© 2026 Caio Velasco. Original concept and writing. Referenced methodologies remain attributable to their respective authors.
+:::

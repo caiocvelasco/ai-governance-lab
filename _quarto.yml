@@ -2,29 +2,33 @@ project:
   type: website
   output-dir: _site
   resources:
-    - CNAME
-
+  - CNAME
+  - images/caio_ucla.JPG
 website:
-  title: "AI Governance Lab"
+  title: AI Governance Lab
   navbar:
     background: light
     left:
-      - text: "Home"
-        href: index.qmd
-      - text: "Research"
-        href: research.qmd
-      - text: "Projects"
+    - text: Home
+      href: index.qmd
+    - text: Research & Ideas
+      href: research.qmd
+    - text: Projects
+      menu:
+      - text: All projects
         href: projects.qmd
-      - text: "About"
-        href: about.qmd
+      - text: From AI Claims to Evidence
+        href: projects/ai-claims-to-evidence/index.qmd
+      - text: AI Impact Self-Assessment
+        href: projects/impact-self-assessment/index.qmd
+    - text: About
+      href: about.qmd
   page-footer:
-    left: "AI Governance Lab · Independent Initiative"
-    right: "© 2026 Caio Velasco"
-
+    left: AI Governance Lab · Independent Initiative
+    right: © 2026 Caio Velasco
 format:
   html:
     theme: cosmo
-    css: styles.css
     toc: false
     page-layout: full
     title-block-banner: false
@@ -33,6 +37,5 @@ format:
     link-external-newwindow: true
     grid:
       body-width: 1040px
-
 execute:
   freeze: auto

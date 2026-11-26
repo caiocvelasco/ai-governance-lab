@@ -1,5 +1,6 @@
 ---
 title: "Projects"
+css: styles.css
 ---
 
 
@@ -32,7 +33,7 @@ An independent research concept examining the evidence behind claims about AI sy
 
 Its illustrative AI-assisted hiring case is hypothetical. This is a proposed research framework, not a completed evaluation.
 
-[Explore the research concept ↗](https://caiocvelasco.github.io/ai-governance-evidence-lab/)
+[Explore the research concept →](projects/ai-claims-to-evidence/index.qmd)
 :::
 
 ::: {.featured-project}
@@ -55,7 +56,7 @@ A concept for an AI-assisted, human-in-the-loop tool that could help organizatio
 
 It brings together governance and the possible development of an applied AI tool, but is not an operational or validated assessment product.
 
-[Explore the tool concept ↗](https://caiocvelasco.github.io/impact-ai-self-assessment-concept/)
+[Explore the tool concept →](projects/impact-self-assessment/index.qmd)
 :::
 
 ::: {.projects-next}
