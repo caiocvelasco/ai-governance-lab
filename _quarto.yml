@@ -6,6 +6,7 @@ project:
   - images/caio_ucla.JPG
 website:
   title: AI Governance Lab
+  google-analytics: "G-DVYD0LK26Z"
   navbar:
     background: light
     left:
